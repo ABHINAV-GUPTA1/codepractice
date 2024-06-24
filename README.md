@@ -15,6 +15,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@
 | ------- |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -84,4 +86,12 @@
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
