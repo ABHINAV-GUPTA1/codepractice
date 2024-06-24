@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
@@ -40,6 +41,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 ## String
 |  |
@@ -77,6 +79,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 <!---LeetCode Topics End-->
