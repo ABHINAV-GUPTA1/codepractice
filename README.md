@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -58,6 +59,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
+| [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
 ## Dynamic Programming
 |  |
 | ------- |
