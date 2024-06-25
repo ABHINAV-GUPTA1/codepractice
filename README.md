@@ -10,6 +10,7 @@
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,4 +110,12 @@
 |  |
 | ------- |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
