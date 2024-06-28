@@ -76,6 +76,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 ## Linked List
@@ -153,4 +154,8 @@
 |  |
 | ------- |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
