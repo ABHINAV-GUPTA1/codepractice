@@ -9,6 +9,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
@@ -72,6 +73,7 @@
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 ## Linked List
 |  |
