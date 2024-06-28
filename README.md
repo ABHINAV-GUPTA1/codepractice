@@ -8,6 +8,7 @@
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
+| [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
@@ -30,6 +31,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
@@ -157,5 +159,6 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
