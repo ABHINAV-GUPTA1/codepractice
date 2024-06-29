@@ -154,6 +154,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 ## Randomized
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 ## String Matching
