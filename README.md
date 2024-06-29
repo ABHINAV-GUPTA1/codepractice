@@ -109,6 +109,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0007-reverse-integer) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
