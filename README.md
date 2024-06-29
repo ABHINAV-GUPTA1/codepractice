@@ -6,6 +6,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
+| [0136-single-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
@@ -161,6 +162,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 ## String Matching
