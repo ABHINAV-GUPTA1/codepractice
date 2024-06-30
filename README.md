@@ -18,6 +18,7 @@
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
+| [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
@@ -217,6 +218,7 @@
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 ## Shortest Path
 |  |
 | ------- |
