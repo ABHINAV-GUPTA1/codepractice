@@ -104,6 +104,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
+| [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 ## Tree
 |  |
 | ------- |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
+| [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -214,6 +216,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
@@ -228,6 +231,7 @@
 ## Design
 |  |
 | ------- |
+| [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
