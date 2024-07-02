@@ -12,6 +12,7 @@
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
@@ -41,6 +42,7 @@
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
@@ -78,6 +80,7 @@
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## String
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
