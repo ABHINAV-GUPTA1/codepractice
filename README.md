@@ -31,6 +31,7 @@
 | [1293-three-consecutive-odds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -160,6 +161,7 @@
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
 ## Binary Search Tree
 |  |
@@ -177,6 +179,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
 | ------- |
@@ -300,6 +303,7 @@
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
 |  |
 | ------- |
@@ -309,6 +313,7 @@
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
 ## Bucket Sort
