@@ -11,14 +11,9 @@ class Solution {
 
         // return (int)res;
 
-        boolean sign = false;
-        if (x < 0) {
-            sign = true;
-            x = -x;
-        }
         int res = 0;
         int tmp;
-        while (x > 0) {
+        while (x != 0) {
             tmp = res *10 + x%10;
             if (tmp/10 != res) {
                 return 0;
@@ -27,6 +22,6 @@ class Solution {
             x = x/10;
         }
 
-        return sign ? -res : res;
+        return res;
     }
 }
