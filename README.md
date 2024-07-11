@@ -114,6 +114,7 @@
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Dynamic Programming
@@ -177,6 +178,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 ## Recursion
 |  |
