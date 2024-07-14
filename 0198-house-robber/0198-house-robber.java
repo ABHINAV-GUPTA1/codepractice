@@ -1,19 +1,33 @@
 class Solution {
     int[] dp;
     public int rob(int[] nums) {
-        dp = new int[nums.length+1];
-        Arrays.fill(dp, -1);
+        if (nums == null || nums.length == 0) {
+            return 0;
+        }
+        if (nums.length == 1) {
+            return nums[0];
+        }
+        // dp = new int[nums.length+1];
+        // Arrays.fill(dp, -1);
         // return f1(0, nums);
         // return f2(nums.length-1, nums);
 
-        dp[0] = 0;
-        dp[1] = nums[0];
+        // dp[0] = 0;
+        // dp[1] = nums[0];
+        // for (int i = 2; i <= nums.length; i++) {
+        //     dp[i] = Math.max(nums[i-1]+dp[i-2], dp[i-1]);
+        // }
 
+        int prev2 = 0;
+        int prev1 = nums[0];
+        int curr = 0;
         for (int i = 2; i <= nums.length; i++) {
-            dp[i] = Math.max(nums[i-1]+dp[i-2], dp[i-1]);
+            curr = Math.max(nums[i-1]+prev2, prev1);
+            prev2 = prev1;
+            prev1 = curr;
         }
 
-        return dp[nums.length];
+        return curr;
     }
 
     int f2(int n, int[] arr) {
