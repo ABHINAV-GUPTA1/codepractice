@@ -138,6 +138,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
@@ -176,6 +177,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0292-nim-game) |
@@ -382,4 +384,8 @@
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
