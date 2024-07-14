@@ -123,6 +123,7 @@
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
@@ -238,6 +239,7 @@
 | [0036-valid-sudoku](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -319,6 +321,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -375,4 +378,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
