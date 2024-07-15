@@ -12,6 +12,7 @@
 | [0057-insert-interval](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
 | [0136-single-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
@@ -193,6 +194,7 @@
 | [0007-reverse-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
@@ -213,6 +215,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
