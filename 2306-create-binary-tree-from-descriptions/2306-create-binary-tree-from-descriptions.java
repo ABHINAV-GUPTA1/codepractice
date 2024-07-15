@@ -17,7 +17,7 @@ class Solution {
     Map<Integer, Integer> ans;
     public TreeNode createBinaryTree(int[][] descriptions) {
         TreeNode root;
-        Map<Integer, ArrayList<Integer>> childParentMap = new HashMap<>();
+        Set<Integer> childSet = new HashSet<>();
         Map<Integer, TreeNode> map = new HashMap<>();
         TreeNode k =  new TreeNode();
         for (int[] d : descriptions) {
@@ -31,16 +31,12 @@ class Solution {
             }
             
             map.put(d[0], k);            
-            childParentMap.computeIfAbsent(d[0], x->new ArrayList<>()).add(d[1]);
+            childSet.add(d[1]);
         }   
-        int res = 0;
-        ans = new HashMap<>(); 
-        int kval;
-        for (Integer k1 : childParentMap.keySet()) {
-            kval = f(k1, childParentMap);
-            if (res < kval) {
-                res = kval;
-                k = map.get(k1);
+        for (int d[] : descriptions) {
+            if (!childSet.contains(d[0])) {
+                k = map.get(d[0]);
+                return k;
             }
         }
         
