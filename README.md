@@ -96,6 +96,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0133-clone-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -195,6 +196,7 @@
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -438,5 +440,6 @@
 | [0022-generate-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
+| [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
