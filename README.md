@@ -9,6 +9,7 @@
 | [0036-valid-sudoku](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
@@ -167,6 +168,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -259,6 +261,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
