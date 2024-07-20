@@ -13,6 +13,7 @@
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,6 +139,7 @@
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
@@ -493,6 +495,7 @@
 ## Database
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
 | [0175-combine-two-tables](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0177-nth-highest-salary) |
