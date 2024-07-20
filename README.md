@@ -472,4 +472,8 @@
 | ------- |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
