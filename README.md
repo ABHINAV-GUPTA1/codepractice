@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0322-coin-change](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -86,6 +87,7 @@
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0907-koko-eating-bananas](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0907-koko-eating-bananas) |
@@ -349,6 +351,7 @@
 | ------- |
 | [0190-reverse-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 ## Randomized
@@ -499,4 +502,20 @@
 | [0175-combine-two-tables](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0177-nth-highest-salary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Merge Sort
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
