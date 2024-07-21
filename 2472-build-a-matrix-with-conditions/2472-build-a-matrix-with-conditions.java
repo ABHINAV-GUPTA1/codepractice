@@ -2,8 +2,11 @@ class Solution {
     public int[][] buildMatrix(int k, int[][] rowConditions, int[][] colConditions) {
         int[][] res = new int[k][k];
         int[] row = topologicalSort(rowConditions, k);
+        if (row == null) {
+            return new int[0][];
+        }
         int[] col = topologicalSort(colConditions, k);
-        if (row == null || col == null) {
+        if (col == null) {
             return new int[0][];
         }
         // System.out.println(Arrays.toString(row));
