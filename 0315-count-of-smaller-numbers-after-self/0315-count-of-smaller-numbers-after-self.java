@@ -1,4 +1,44 @@
 class Solution {
+    
+    int[] fenwick;
+    int size;
+    private void update(int idx, int x) {
+        while (idx <= size) {
+            fenwick[idx] += x;
+            idx += (idx&(-idx)); 
+        }
+    }
+
+    private int query(int idx) {
+        int sum = 0;
+        while (idx > 0) {
+            sum += fenwick[idx];
+            idx -= (idx&(-idx));
+        }
+        return sum;
+    }
+
+    public List<Integer> countSmaller(int[] nums) {
+        int n = nums.length;
+        size = n;
+        fenwick = new int[n+1];
+        Pair[] pair = new Pair[n];
+        List<Integer> alist = new ArrayList();
+        for (int i = 0; i < n; i++) {
+            pair[i] = new Pair(i, nums[i]);
+            alist.add(0);
+        }
+        Arrays.sort(pair, (a,b)->a.val-b.val);
+        
+        for (int i = 0; i < n; i++) {
+            update(pair[i].idx+1, 1);
+            alist.set(pair[i].idx, query(n) - query(pair[i].idx+1));
+        }
+        
+        return alist;
+    }
+
+
     class Pair {
         int idx;
         int val;
@@ -7,7 +47,8 @@ class Solution {
             this.val = val;
         }
     }
-    public List<Integer> countSmaller(int[] nums) {
+        
+    public List<Integer> countSmaller1(int[] nums) {
         int n = nums.length;
         Pair[] pair = new Pair[n];
         for (int i = 0; i < n; i++) {
