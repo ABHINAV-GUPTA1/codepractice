@@ -107,6 +107,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
@@ -235,6 +236,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
+| [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
@@ -548,6 +550,7 @@
 ## Topological Sort
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
