@@ -63,6 +63,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
@@ -435,6 +436,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
+| [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
 ## Shortest Path
 |  |
 | ------- |
