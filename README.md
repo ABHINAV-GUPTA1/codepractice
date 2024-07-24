@@ -199,6 +199,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 ## Dynamic Programming
 |  |
@@ -488,6 +489,7 @@
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 ## Bucket Sort
@@ -568,4 +570,5 @@
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
+| [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 <!---LeetCode Topics End-->
