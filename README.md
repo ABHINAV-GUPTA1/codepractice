@@ -69,6 +69,7 @@
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -203,6 +204,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -346,6 +348,7 @@
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
