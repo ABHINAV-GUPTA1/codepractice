@@ -79,6 +79,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
