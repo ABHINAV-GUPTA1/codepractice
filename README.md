@@ -247,6 +247,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
@@ -400,6 +401,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -449,6 +451,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
@@ -579,6 +582,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 ## Ordered Set
