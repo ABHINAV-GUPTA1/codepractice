@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0057-insert-interval) |
@@ -157,6 +158,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
@@ -518,6 +520,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0054-spiral-matrix) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
