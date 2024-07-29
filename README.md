@@ -221,6 +221,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
+| [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -361,6 +362,7 @@
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
+| [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
