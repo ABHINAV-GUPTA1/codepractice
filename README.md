@@ -80,6 +80,7 @@
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
@@ -124,6 +125,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Depth-First Search
 |  |
@@ -202,6 +204,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## String
@@ -390,6 +393,7 @@
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Sliding Window
 |  |
@@ -436,6 +440,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
+| [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Counting
 |  |
