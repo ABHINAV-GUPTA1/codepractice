@@ -81,6 +81,7 @@
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -237,6 +238,7 @@
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
+| [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Dynamic Programming
 |  |
