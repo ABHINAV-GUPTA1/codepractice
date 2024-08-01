@@ -10,10 +10,10 @@ class Solution {
         if (n < 0) {
             return solve(1/x, -n);
         }
-
-        if (n%2 == 0) {
-            return solve(x*x, n/2);
+        double res = solve(x, n/2);
+        if ((n&1) == 0) {
+            return res*res;
         }
-        return x*solve(x*x, n/2);
+        return x*res*res;
     }
 }
