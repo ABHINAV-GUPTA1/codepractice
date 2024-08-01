@@ -6,10 +6,14 @@ class Solution {
             set.add(i);
         }
         for (int i = 1; i <= n; i++) {
-            if (!set.contains(i) && maxSum - i >= 0) {
-                maxSum -= i;
-                ans++;
-            }
+            if (!set.contains(i)) {
+                if (maxSum - i >= 0) {
+                    maxSum -= i;
+                    ans++;
+                } else {
+                    break;
+                }
+            } 
         }
 
         return ans;
