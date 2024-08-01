@@ -322,6 +322,7 @@
 | [0007-reverse-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -367,6 +368,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
