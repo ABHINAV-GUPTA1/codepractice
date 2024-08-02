@@ -80,6 +80,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
+| [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -207,6 +208,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
@@ -450,6 +452,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -527,6 +530,7 @@
 | [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
+| [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 ## Shortest Path
 |  |
 | ------- |
@@ -583,6 +587,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
+| [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 ## Bucket Sort
