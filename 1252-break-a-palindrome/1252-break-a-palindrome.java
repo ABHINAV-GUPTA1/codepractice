@@ -10,7 +10,7 @@ class Solution {
                 arr[i] = 'a';
                 return new String(arr);
             }
-        }    
+        }
         arr[n-1] = 'b';
         return new String(arr);
     }
