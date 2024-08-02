@@ -2,8 +2,10 @@ class Solution {
     public String reverseParentheses(String s) {
         Stack<Character> st = new Stack<>();
         Queue<Character> q = new LinkedList<>();
-        for (int i = 0; i < s.length(); i++) {
-            if (s.charAt(i) == ')') {
+        char[] arr = s.toCharArray();
+        StringBuilder sb = new StringBuilder();
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == ')') {
                 while (!st.isEmpty() && st.peek() != '(') {
                     q.offer(st.pop());
                 }
@@ -13,15 +15,15 @@ class Solution {
                 while (!q.isEmpty()) {
                     st.push(q.poll());
                 }
-            } else {
-                st.push(s.charAt(i));
+            } else { // ( or a-z
+                st.push(arr[i]);
             }
         }
 
-        StringBuilder sb = new StringBuilder();
         while (!st.isEmpty()) {
             sb.insert(0, st.pop());
         }
+
         return sb.toString();
     }
 }
