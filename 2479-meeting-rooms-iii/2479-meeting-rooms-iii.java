@@ -15,8 +15,7 @@ class Solution {
         int meetLen = meetings.length;
         int[] count = new int[meetLen];
         int[] tmp;
-        int ans = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
+        int ans = 0;
         for (int i = 0; i < meetLen; i++) {
             while (!meetPq.isEmpty() && meetPq.peek()[0] <= meetings[i][0]) {
                 availPq.offer(meetPq.poll()[1]);
@@ -29,10 +28,9 @@ class Solution {
             }
             int currRoom = availPq.poll();
             count[currRoom]++;
-            if  (count[currRoom] > max) {
-                max = count[currRoom];
+            if  (count[currRoom] > count[ans]) {
                 ans = currRoom;
-            } else if (count[currRoom] == max) {
+            } else if (count[currRoom] == count[ans]) {
                 ans = Math.min(ans, currRoom);
             }
             meetPq.offer(new int[]{delayed+(meetings[i][1]-meetings[i][0]), currRoom});
