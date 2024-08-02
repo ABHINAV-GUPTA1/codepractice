@@ -1,6 +1,23 @@
 class Solution {
     int[] dp;
+    
     public int rob(int[] nums) {
+        int n = nums.length;
+        dp = new int[n];
+        dp[0] = nums[0];
+        for (int idx = 1; idx < n; idx++) {
+            int take = nums[idx]; 
+            if (idx > 1) {
+                take += dp[idx-2];
+            }
+            int ntake = dp[idx-1];
+            dp[idx] = Math.max(take, ntake);
+        }
+
+        return dp[n-1];
+    }
+    
+    public int rob1(int[] nums) {
         int n = nums.length;
         dp = new int[n];
         Arrays.fill(dp, -1);
