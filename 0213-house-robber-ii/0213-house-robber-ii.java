@@ -1,23 +1,26 @@
 class Solution {
     int[][] dp;
     public int rob(int[] nums) {
-        dp = new int[2][nums.length+2];
-        Arrays.fill(dp[0], -1);
-        Arrays.fill(dp[1], -1);
-        return f(0, 0, nums);
+        dp = new int[nums.length][2];
+        for (int i = 0; i < nums.length; i++) {
+            Arrays.fill(dp[i], -1);
+        } 
+        return f(nums.length-1, 0, nums);
     }
 
-    private int f(int n, int flag, int[] arr) {
-        if (n == arr.length-1) {
-            return flag == 0 ? arr[n] : 0;
+    int f(int idx, int flag, int[] nums) {
+        if (idx == 0) {
+            return flag == 1 ? 0 : nums[idx];
         }
-        if (n >= arr.length) {
+        if (idx < 0) {
             return 0;
         }
-        if (dp[flag][n] != -1) {
-            return dp[flag][n];
+        if (dp[idx][flag] != -1) {
+            return dp[idx][flag];
         }
+        int ntake = f(idx-1, flag, nums);
+        int take = nums[idx] + f(idx-2, idx == nums.length-1 ? 1 : flag, nums);
 
-        return dp[flag][n] = Math.max(arr[n]+f(n+2, n == 0 ? 1 : flag, arr), f(n+1, flag, arr));
+        return dp[idx][flag] = Math.max(take, ntake);
     }
 }
