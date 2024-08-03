@@ -64,6 +64,7 @@
 | [1293-three-consecutive-odds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1293-three-consecutive-odds) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
@@ -204,6 +205,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -455,6 +457,7 @@
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
+| [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
