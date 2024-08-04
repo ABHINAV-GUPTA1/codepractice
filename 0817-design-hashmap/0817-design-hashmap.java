@@ -1,14 +1,15 @@
 class MyHashMap {
-    class Entry {
-        int key, val;
-        Entry(int key, int val) {
+    class Entry<K,V> {
+        K key;
+        V val;
+        Entry(K key, V val) {
             this.key = key;
             this.val = val;
         }
     }
     
     int SIZE = 1200;
-    LinkedList<Entry>[] bucket;
+    LinkedList<Entry<Integer, Integer>>[] bucket;
 
     public MyHashMap() {
         bucket = new LinkedList[SIZE];
@@ -20,14 +21,14 @@ class MyHashMap {
     public void put(int key, int value) {
         int hash = hashCode(key);
         remove(key);
-        LinkedList<Entry> b = bucket[hash];
-        b.add(new Entry(key, value));
+        LinkedList<Entry<Integer, Integer>> b = bucket[hash];
+        b.add(new Entry<Integer, Integer>(key, value));
     }
     
     public int get(int key) {
-        Iterator<Entry> iter = getIterator(key);
+        Iterator<Entry<Integer, Integer>> iter = getIterator(key);
         while (iter.hasNext()) {
-            Entry entry = iter.next();
+            Entry<Integer, Integer> entry = iter.next();
             if (entry.key == key) {
                 return entry.val;
             }
@@ -41,18 +42,18 @@ class MyHashMap {
     }
     
     public void remove(int key) {
-        Iterator<Entry> iter = getIterator(key);
+        Iterator<Entry<Integer, Integer>> iter = getIterator(key);
         while (iter.hasNext()) {
-            Entry entry = iter.next();
+            Entry<Integer, Integer> entry = iter.next();
             if (entry.key == key) {
                 iter.remove();
             }
         }
     }
 
-    private Iterator<Entry> getIterator(int key) {
+    private Iterator<Entry<Integer, Integer>> getIterator(int key) {
         int hash = hashCode(key);
-        LinkedList<Entry> b = bucket[hash];
+        LinkedList<Entry<Integer, Integer>> b = bucket[hash];
         return b.iterator();
     }
 }
