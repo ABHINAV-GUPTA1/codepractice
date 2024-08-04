@@ -13,9 +13,10 @@ class Solution {
         if ( n < 0) {
             return solve(1/x, -n);
         }
+        double val = solve(x, n/2);
         if (n%2 == 0) {
-            return solve(x*x, n/2);
+            return val*val;
         }
-        return x*solve(x*x, n/2);
+        return x*val*val;
     }
 }
