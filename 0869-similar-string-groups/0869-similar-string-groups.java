@@ -33,7 +33,7 @@ class Solution {
                 ans++;
             }
         }
-        System.out.println(adj);
+        // System.out.println(adj);
         return ans;
     }
 
