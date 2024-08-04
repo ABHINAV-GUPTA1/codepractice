@@ -1,49 +1,45 @@
 class Solution {
-
     public int findKthLargest(int[] nums, int k) {
-        int n = nums.length;
-        int l = 0;
-        int r = n-1;
-        int pivot = l;
-        while (true) {
-            pivot = findPivot(l, r, nums);
-            if (pivot == k-1) {
-                return nums[pivot];
+        return quick(0, nums.length-1, nums, k);
+    }
+    int quick(int low, int high, int[] arr, int k) {
+        while (low <= high) {
+            int part = findPart(low, high, arr);
+            if (part == k-1) {
+                return arr[part];
             }
-            if (pivot > k-1) {
-                r = pivot-1;
+            if (part > k-1) {
+                high = part-1;
             } else {
-                l = pivot + 1;
+                low = part+1;
             }
-        }    
-    }
-    
-    private void swap(int[] arr, int a, int b) {
-        int t = arr[a];
-        arr[a] = arr[b];
-        arr[b] = t;
+        }
+
+        return -1;
     }
 
-    private int findPivot(int l, int r, int[] arr) {
-        int pivot = arr[l];
-
-        int i = l+1;
-        int j = r;
+    int findPart(int low, int high, int[] arr) {
+        int part = arr[low];
+        int i = low+1;
+        int j = high;
 
         while (i <= j) {
-            if (arr[i] < pivot && pivot < arr[j]) {
-                swap(arr, i, j);
+            if (part <= arr[i]) {
                 i++;
+            } else if (part >= arr[j]) {
                 j--;
-            } 
-            if (arr[i] >= pivot) {
+            } else {
+                int t = arr[i];
+                arr[i] = arr[j];
+                arr[j] = t;
                 i++;
-            }
-            if (arr[j] <= pivot) {
                 j--;
             }
         }
-        swap(arr, j, l);
+
+        int t = arr[low];
+        arr[low] = arr[j];
+        arr[j] = t;
         return j;
     }
 }
