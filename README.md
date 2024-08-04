@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0036-valid-sudoku) |
@@ -115,6 +116,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -482,6 +484,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0190-reverse-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
