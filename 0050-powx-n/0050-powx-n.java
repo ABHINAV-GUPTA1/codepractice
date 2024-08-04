@@ -1,19 +1,21 @@
 class Solution {
     public double myPow(double x, int n) {
-        return solve(x, (long)n);
+        return solve(x, n);    
     }
 
-    private double solve(double x, long n) {
+    double solve(double x, long n) {
         if (n == 0) {
             return 1;
         }
-        if (n < 0) {
+        if (n == 1) {
+            return x;
+        }
+        if ( n < 0) {
             return solve(1/x, -n);
         }
-        double res = solve(x, n/2);
-        if ((n&1) == 0) {
-            return res*res;
+        if (n%2 == 0) {
+            return solve(x*x, n/2);
         }
-        return x*res*res;
+        return x*solve(x*x, n/2);
     }
 }
