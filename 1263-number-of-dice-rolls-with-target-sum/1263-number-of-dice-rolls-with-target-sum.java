@@ -1,32 +1,32 @@
 class Solution {
-    
-    int mod = 1000000007;
-    
+    int mod = 1000_000_007;
+    int[][] dp;
     public int numRollsToTarget(int n, int k, int target) {
-        
-        int[][] arr = new int[n+1][target+1];
-        Arrays.stream(arr).forEach(a->Arrays.fill(a, -1));
-        return helper(0, n, k, target, arr);
+        dp = new int[n][target+1];
+        for (int i = 0; i < n; i++) {
+            Arrays.fill(dp[i], -1);
+        }
+        return f(0, n, k, target);
     }
-    
-    private int helper(int i, int n, int k, int target, int[][] arr) {
-        if (i == n) {
+
+    int f(int idx, int n, int maxDiceNumber, int target) {
+        if (idx == n) {
             if (target == 0) {
                 return 1;
             }
             return 0;
         }
-        
-        if (arr[i][target] != -1) {
-            return arr[i][target];
+        if (dp[idx][target] != -1) {
+            return dp[idx][target];
         }
         int ans = 0;
-        for (int idx = 1; idx <= k; idx++) {
-            if (idx <= target) {
-                ans = (ans+ helper(i+1, n, k, target-idx, arr)%mod)%mod;
+        for (int currDiceNumber = 1; currDiceNumber <= maxDiceNumber; currDiceNumber++) {
+            if (target < currDiceNumber) {
+                break;
             }
+            ans = (ans + f(idx+1, n, maxDiceNumber, target-currDiceNumber)%mod)%mod;
         }
-        
-        return arr[i][target]=ans%mod;
+
+        return dp[idx][target] = ans%mod;
     }
 }
