@@ -1,34 +1,35 @@
 class Solution {
     Boolean[][] dp;
-    Map<Integer, Integer> map;
     public boolean canCross(int[] stones) {
-        int n = stones.length;
-        dp = new Boolean[n][2001];
-        map = new HashMap<>();
-        for (int i = 0; i < n; i++) {
+        if (stones[1] == 0) {
+            return false;
+        }
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < stones.length; i++) {
             map.put(stones[i], i);
         }
-        return solve(0, 0, stones);
+        dp = new Boolean[stones.length+1][2001];
+        return f(0,0,map, stones);
     }
 
-    boolean solve(int curr, int prevJmp, int[] arr) {
-        if (curr == arr.length - 1) {
+    boolean f(int idx, int jmp, Map<Integer, Integer> map, int[] stones) {
+        if (idx == stones.length-1) {
             return true;
         }
-        if (dp[curr][prevJmp] != null) {
-            return dp[curr][prevJmp];
+        if (dp[idx][jmp] != null) {
+            return dp[idx][jmp];
         }
-        boolean res = false;
-        int nwJmp;
-        for (int nxt = prevJmp-1; nxt <= prevJmp + 1; nxt++) {
-            if (nxt > 0) {
-                nwJmp = arr[curr] + nxt;
-                if (map.containsKey(nwJmp)) {
-                    res = res || solve(map.get(nwJmp), nxt, arr);
-                }
+        boolean check = false;
+        for (int njmp = jmp-1; njmp <= jmp+1; njmp++) {
+            if (njmp <= 0) {
+                continue;
             }
+            int k = stones[idx]+njmp;
+            if (!map.containsKey(k)) {
+                continue;
+            }
+            check |= f(map.get(k), njmp, map, stones);
         }
-
-        return dp[curr][prevJmp] = res;
+        return dp[idx][jmp] = check;
     }
 }
