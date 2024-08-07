@@ -375,6 +375,7 @@
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
+| [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -735,6 +736,7 @@
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
