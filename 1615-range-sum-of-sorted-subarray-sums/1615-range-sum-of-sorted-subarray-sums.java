@@ -1,50 +1,28 @@
-import java.util.*;
-
 class Solution {
-    private static final int MOD = 1000000007;
-
+    int mod = (int)1e9 + 7;
     public int rangeSum(int[] nums, int n, int left, int right) {
-        long result =
-            (sumOfFirstK(nums, n, right) - sumOfFirstK(nums, n, left - 1)) %
-            MOD;
-        // Ensure non-negative result
-        return (int) ((result + MOD) % MOD);
-    }
-
-    // Helper function to count subarrays with sum <= target and their total sum.
-    private Map.Entry<Integer, Long> countAndSum(
-        int[] nums,
-        int n,
-        int target
-    ) {
+        int ans = 0;
         int count = 0;
-        long currentSum = 0, totalSum = 0, windowSum = 0;
-        for (int j = 0, i = 0; j < n; ++j) {
-            currentSum += nums[j];
-            windowSum += nums[j] * (j - i + 1);
-            while (currentSum > target) {
-                windowSum -= currentSum;
-                currentSum -= nums[i++];
+        PriorityQueue<int[]> pq = new PriorityQueue<>((a,b)->(a[0]-b[0])); // sum, index => sorted by sum
+        for (int i = 0; i < n; i++) {
+            pq.offer(new int[]{nums[i], i}); // T(n) => n(log n) {n-> elements, log n for each push in que} 
+        }
+
+        for (int i = 1; i <= right && !pq.isEmpty(); i++) {
+            int[] arr = pq.poll();
+            int sum = arr[0];
+            int idx = arr[1];
+            
+            if (i >= left) {
+                ans = (ans+sum)%mod;
             }
-            count += j - i + 1;
-            totalSum += windowSum;
+            if (idx+1 < n) {
+                arr[0] = (sum + nums[idx+1])%mod;
+                arr[1] = idx + 1;
+                pq.offer(arr);
+            }
         }
-        return new AbstractMap.SimpleEntry<>(count, totalSum);
-    }
 
-    // Helper function to find the sum of the first k smallest subarray sums.
-    private long sumOfFirstK(int[] nums, int n, int k) {
-        int minSum = Arrays.stream(nums).min().getAsInt();
-        int maxSum = Arrays.stream(nums).sum();
-        int left = minSum, right = maxSum;
-
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (countAndSum(nums, n, mid).getKey() >= k) right = mid - 1;
-            else left = mid + 1;
-        }
-        Map.Entry<Integer, Long> result = countAndSum(nums, n, left);
-        // There can be more subarrays with the same sum of left.
-        return result.getValue() - left * (result.getKey() - k);
+        return ans;
     }
 }
