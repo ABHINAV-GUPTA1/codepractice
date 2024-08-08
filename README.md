@@ -149,6 +149,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -332,6 +333,7 @@
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -391,6 +393,7 @@
 | ------- |
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
+| [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0450-delete-node-in-a-bst) |
