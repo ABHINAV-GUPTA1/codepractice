@@ -290,6 +290,7 @@
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
@@ -373,6 +374,7 @@
 | [0013-roman-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -757,4 +759,8 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
