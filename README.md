@@ -54,6 +54,7 @@
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
+| [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
@@ -203,6 +204,7 @@
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
+| [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0895-shortest-path-to-get-all-keys) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
@@ -389,6 +391,7 @@
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
@@ -503,6 +506,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
+| [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
