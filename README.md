@@ -63,6 +63,7 @@
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
@@ -173,6 +174,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
+| [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
+| [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
 ## Matrix
 |  |
@@ -511,6 +514,7 @@
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
+| [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
