@@ -18,6 +18,7 @@
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0063-unique-paths-ii) |
+| [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
@@ -254,6 +255,7 @@
 | [0022-generate-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
+| [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
@@ -656,6 +658,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
