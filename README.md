@@ -271,6 +271,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
@@ -399,6 +400,7 @@
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
@@ -666,6 +668,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
+| [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
