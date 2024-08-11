@@ -10,14 +10,14 @@ class Solution {
             v2 = j >= 0 ? num2.charAt(j) - '0' : 0;
             int sum = v1+v2+carry;
             carry = sum / 10;
-            sb.insert(0, (sum%10));
+            sb.append((sum%10));
 
             i--;
             j--;
         }    
         if (carry > 0) {
-            sb.insert(0, carry);
+            sb.append(carry);
         }
-        return sb.toString();
+        return sb.reverse().toString();
     }
 }
