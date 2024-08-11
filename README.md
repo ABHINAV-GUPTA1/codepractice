@@ -125,6 +125,7 @@
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0680-valid-palindrome-ii) |
+| [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
@@ -281,6 +282,7 @@
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
+| [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
@@ -446,6 +448,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -681,6 +684,7 @@
 | [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0735-asteroid-collision) |
+| [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [0898-transpose-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0898-transpose-matrix) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
