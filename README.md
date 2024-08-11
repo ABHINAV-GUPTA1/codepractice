@@ -347,6 +347,7 @@
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
+| [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -403,6 +404,7 @@
 | [0292-nim-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
 | [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
@@ -437,6 +439,7 @@
 | [0155-min-stack](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0739-daily-temperatures) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
