@@ -180,6 +180,7 @@
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -589,6 +590,7 @@
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2171-second-minimum-time-to-reach-destination) |
@@ -765,6 +767,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
 ## Hash Function
 |  |
@@ -797,4 +800,5 @@
 | ------- |
 | [0062-unique-paths](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0062-unique-paths) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
+| [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 <!---LeetCode Topics End-->
