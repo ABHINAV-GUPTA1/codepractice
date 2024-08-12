@@ -70,6 +70,7 @@
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -348,6 +349,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
 | [1196-filling-bookcase-shelves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1196-filling-bookcase-shelves) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1263-number-of-dice-rolls-with-target-sum) |
@@ -593,6 +595,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 ## Randomized
 |  |
@@ -696,6 +699,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Backtracking
@@ -748,6 +752,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 ## Trie
 |  |
 | ------- |
