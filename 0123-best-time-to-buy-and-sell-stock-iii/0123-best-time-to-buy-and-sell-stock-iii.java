@@ -2,6 +2,24 @@ class Solution {
     int[][] dp;
     
     public int maxProfit(int[] prices) {
+        int[] curr;
+        int[] prev = new int[5];
+        for (int idx = prices.length-1; idx >= 0; idx--) {
+            curr = new int[5];
+            for (int trans = 3; trans >= 0; trans--) {
+                 if (trans%2 == 0) {
+                    curr[trans] = Math.max(-prices[idx]+prev[trans+1], prev[trans]);
+                } else {
+                    curr[trans] = Math.max(prices[idx]+prev[trans+1], prev[trans]);
+                }
+            }
+            prev = curr;
+        }
+
+        return prev[0];
+    }
+
+    public int maxProfit2(int[] prices) {
         dp = new int[prices.length+1][5];
 
         for (int idx = prices.length-1; idx >= 0; idx--) {
