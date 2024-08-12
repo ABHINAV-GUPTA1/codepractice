@@ -23,9 +23,9 @@ class Solution {
             }
         }
         int res = 0;
-        while (!st.isEmpty()) {
-            res += st.pop();
-        }    
+        for (int i : st) {
+            res += i; 
+        }  
 
         return res;
     }
