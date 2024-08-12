@@ -1,6 +1,23 @@
 class Solution {
     int[][] dp;
+
     public int maxProfit(int k, int[] prices) {
+        int[] prev = new int[2*k+1];
+        int[] curr;
+        for (int idx = prices.length-1; idx >= 0; idx--) {
+            curr = new int[2*k+1];
+            for (int trans = 2*k-1; trans >= 0; trans--) {
+                if (trans%2 == 0) {
+                    curr[trans] = Math.max(-prices[idx]  + prev[trans+1], prev[trans]);
+                } else {
+                    curr[trans] = Math.max(prices[idx]  + prev[trans+1], prev[trans]);          }
+            }
+            prev = curr;
+        }
+        return prev[0];
+    }
+
+    public int maxProfit2(int k, int[] prices) {
         dp = new int[2*k+1][prices.length+1];
         
         for (int idx = prices.length-1; idx >= 0; idx--) {
