@@ -21,6 +21,38 @@ class Solution {
         if (root == null) {
             return res;
         }
+        TreeNode curr = root;
+        while (curr != null) {
+            if (curr.left != null) {
+                TreeNode pre = findRight(curr.left, curr);
+                if (pre.right == null) {
+                    pre.right = curr;
+                    curr = curr.left;
+                } else {
+                    pre.right = null;
+                    res.add(curr.val);
+                    curr = curr.right;
+                }
+            } else {
+                res.add(curr.val);
+                curr = curr.right;
+            }
+        }
+        return res;
+    }
+
+    private TreeNode findRight(TreeNode curr, TreeNode root) {
+        while (curr.right != null && curr.right != root) {
+            curr = curr.right;
+        }
+        return curr;
+    }
+
+    public List<Integer> inorderTraversal2(TreeNode root) {
+        res = new ArrayList<>();
+        if (root == null) {
+            return res;
+        }
         Stack<TreeNode> st = new Stack<>();
         while (root != null) {
             st.add(root);
