@@ -111,6 +111,7 @@
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2690-house-robber-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
@@ -462,6 +463,7 @@
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -594,6 +596,7 @@
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
@@ -747,6 +750,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
+| [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 ## Bucket Sort
 |  |
