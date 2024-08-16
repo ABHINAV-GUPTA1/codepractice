@@ -60,6 +60,7 @@
 | [0518-coin-change-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0624-maximum-distance-in-arrays) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
@@ -541,6 +542,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
+| [0624-maximum-distance-in-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0890-lemonade-change) |
