@@ -400,6 +400,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
@@ -592,6 +593,7 @@
 | [0133-clone-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
@@ -725,6 +727,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0155-min-stack) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0211-design-add-and-search-words-data-structure) |
@@ -916,4 +919,8 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1300-critical-connections-in-a-network](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1300-critical-connections-in-a-network) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
