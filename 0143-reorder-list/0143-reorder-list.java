@@ -9,7 +9,38 @@
  * }
  */
 class Solution {
+
     public void reorderList(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+
+        while (fast != null && fast.next != null) {
+            fast = fast.next.next;
+            slow = slow.next;
+        }
+
+        ListNode rev = reverse(slow);
+
+        ListNode tl = head;
+        while (tl != null && rev != null) {
+            ListNode headNext = tl.next;
+            ListNode revNext = rev.next;
+            
+            tl.next = rev;
+            rev.next = headNext;
+            
+            tl = headNext;
+            rev = revNext;
+        }
+        if (tl != null) {
+            tl.next = null;
+        }
+        if (rev != null) {
+            rev.next = null;
+        }
+    }
+
+    public void reorderList1(ListNode head) {
         ListNode slow = head;
         ListNode fast = head;
 
