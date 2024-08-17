@@ -10,7 +10,6 @@
  */
 class Solution {
     public void reorderList(ListNode head) {
-        // step 1 find mid
         ListNode slow = head;
         ListNode fast = head;
 
@@ -19,27 +18,40 @@ class Solution {
             slow = slow.next;
         }
 
-        // step 2 reverse second half
         ListNode rev = reverse(slow);
 
-        // step 3 connect the list
+        ListNode tl = head;
+        boolean add = true;
+        ListNode ans = new ListNode (-1);
+        ListNode res = ans;
+        while (tl != null) {
+            if (rev == null) {
+                break;
+            }
+            if (add) {
+                ans.next = tl;
+                tl = tl.next;
+            } else {
+                ans.next = rev;
+                rev = rev.next;
+            }
+            add = !add;
+            ans = ans.next;
+        }
 
-        ListNode  ans = head;
-        ListNode tcurr, trev;
-        while (rev.next != null) {
-            tcurr = ans.next;
-            trev = rev.next;
+        // print(res.next);
+    }
 
-            ans.next = rev;
-            rev.next = tcurr;
-
-            ans = tcurr;
-            rev = trev;
+    private void print(ListNode root) {
+        while (root != null) {
+            System.out.print(root.val+" ");
+            root = root.next;
         }
     }
 
     private ListNode reverse(ListNode curr) {
         ListNode next = null, prev = null;
+
         while (curr != null) {
             next = curr.next;
             curr.next = prev;
