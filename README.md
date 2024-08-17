@@ -109,6 +109,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -395,6 +396,7 @@
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 ## Linked List
