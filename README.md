@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0039-combination-sum) |
@@ -934,6 +935,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0031-next-permutation) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
