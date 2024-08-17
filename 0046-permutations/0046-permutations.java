@@ -1,6 +1,37 @@
 class Solution {
     List<List<Integer>> res;
+    
     public List<List<Integer>> permute(int[] nums) {
+        res = new ArrayList<>();
+        dfs(0, nums);
+        return res;
+    }
+
+    private void dfs(int idx, int[] arr) {
+        if (idx == arr.length) {
+            List<Integer> tmp = new ArrayList<>();
+            for (int i = 0; i < arr.length; i++) {
+                tmp.add(arr[i]);
+            }
+            res.add(tmp);
+            return;
+        }
+
+        for (int i = idx; i < arr.length; i++) {
+            swap(arr, i, idx);
+            dfs(idx+1, arr);
+            swap(arr, i, idx);
+        }
+
+    }
+
+    private void swap(int[] arr, int a, int b) {
+        int t = arr[a];
+        arr[a] = arr[b];
+        arr[b] = t;
+    }
+
+    public List<List<Integer>> permute1(int[] nums) {
         res = new ArrayList<>();
         boolean[] vis = new boolean[nums.length];
         backtrack(nums, vis, new ArrayList<>());
