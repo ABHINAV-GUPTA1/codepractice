@@ -10,49 +10,41 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        return mergeArr(0, lists.length-1, lists);    
+        return merge(0, lists.length-1, lists);
     }
 
-    private ListNode mergeArr(int left, int right, ListNode[] arr) {
+    private ListNode merge(int left, int right, ListNode[] arr) {
         if (left == right) {
             return arr[left];
         }
         if (left > right) {
             return null;
         }
+
         int mid = left + (right - left) / 2;
-        return merge(mergeArr(left, mid, arr), mergeArr(mid+1, right, arr));
+        return mergeArr(merge(left, mid, arr), merge(mid+1, right, arr));
     } 
 
-    private ListNode merge(ListNode a, ListNode b) {
-        if (a == null) {
-            return b;
-        }
-        if (b == null) {
-            return a;
-        }
-        ListNode ans = new ListNode(-1);
-        ListNode tmp = ans;
-        while (a != null && b != null) {
-            if (a.val < b.val) {
-                tmp.next = a;
-                a = a.next;
+    private ListNode mergeArr(ListNode l1, ListNode l2) {
+        ListNode res = new ListNode(-1);
+        ListNode ans = res;
+        while (l1 != null && l2 != null) {
+            if (l1.val > l2.val) {
+                ans.next = l2;
+                l2 = l2.next;
             } else {
-                tmp.next = b;
-                b = b.next;
+                ans.next = l1;
+                l1 = l1.next;
             }
-            tmp = tmp.next;
+            ans = ans.next;
         }
-        if (a != null) {
-            tmp.next = a;
+        if (l1 != null) {
+            ans.next = l1;
         }
-        if (b != null) {
-            tmp.next = b;
+        if (l2 != null) {
+            ans.next = l2;
         }
-        return ans.next;
+
+        return res.next;
     }
-
-
-
-
 }
