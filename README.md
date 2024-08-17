@@ -339,6 +339,7 @@
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
+| [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -930,4 +931,5 @@
 | ------- |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
+| [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 <!---LeetCode Topics End-->
