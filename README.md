@@ -540,6 +540,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0060-permutation-sequence) |
+| [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
