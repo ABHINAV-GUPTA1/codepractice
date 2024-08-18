@@ -371,6 +371,7 @@
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0213-house-robber-ii) |
+| [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0322-coin-change) |
@@ -480,6 +481,7 @@
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0263-ugly-number) |
+| [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0292-nim-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0292-nim-game) |
@@ -617,6 +619,7 @@
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
+| [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -725,6 +728,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
+| [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
