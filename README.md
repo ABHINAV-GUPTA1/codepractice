@@ -383,6 +383,7 @@
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0518-coin-change-ii) |
+| [0650-2-keys-keyboard](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -490,6 +491,7 @@
 | [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0556-next-greater-element-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0556-next-greater-element-iii) |
+| [0650-2-keys-keyboard](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0650-2-keys-keyboard) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
