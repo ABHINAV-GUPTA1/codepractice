@@ -208,6 +208,7 @@
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
@@ -419,6 +420,7 @@
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -962,5 +964,6 @@
 | [0031-next-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0031-next-permutation) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
+| [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 <!---LeetCode Topics End-->
