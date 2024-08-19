@@ -1,50 +1,33 @@
 class Solution {
     public long maxPoints(int[][] points) {
-        int rows = points.length, cols = points[0].length;
-        long[] previousRow = new long[cols];
-
-        // Initialize the first row
-        for (int col = 0; col < cols; ++col) {
-            previousRow[col] = points[0][col];
+        int m = points.length;
+        int n = points[0].length;
+        long[] prev = new long[n];
+        long ans = Long.MIN_VALUE;
+        for (int i = 0; i < n; i++) {
+            prev[i] = points[0][i];
+            ans = Math.max(ans, prev[i]);
         }
-
-        // Process each row
-        for (int row = 0; row < rows - 1; ++row) {
-            long[] leftMax = new long[cols];
-            long[] rightMax = new long[cols];
-            long[] currentRow = new long[cols];
-
-            // Calculate left-to-right maximum
-            leftMax[0] = previousRow[0];
-            for (int col = 1; col < cols; ++col) {
-                leftMax[col] = Math.max(leftMax[col - 1] - 1, previousRow[col]);
+        long[] left;
+        long[] right;
+        
+        for (int idx = 1; idx < m; idx++) {
+            left = new long[n];
+            right = new long[n];
+            left[0] = prev[0];
+            for (int i = 1; i < n; i++) {
+                left[i] = Math.max(left[i-1]-1, prev[i]);
+            }
+            right[n-1] = prev[n-1];
+            for (int i = n-2; i >= 0; i--) {
+                right[i] = Math.max(right[i+1]-1, prev[i]);
             }
 
-            // Calculate right-to-left maximum
-            rightMax[cols - 1] = previousRow[cols - 1];
-            for (int col = cols - 2; col >= 0; --col) {
-                rightMax[col] = Math.max(
-                    rightMax[col + 1] - 1,
-                    previousRow[col]
-                );
+            for (int i = 0; i < n; i++) {
+                prev[i] = points[idx][i] + Math.max(left[i], right[i]);
+                ans = Math.max(ans, prev[i]);
             }
-
-            // Calculate the current row's maximum points
-            for (int col = 0; col < cols; ++col) {
-                currentRow[col] = points[row + 1][col] +
-                Math.max(leftMax[col], rightMax[col]);
-            }
-
-            // Update previousRow for the next iteration
-            previousRow = currentRow;
         }
-
-        // Find the maximum value in the last processed row
-        long maxPoints = 0;
-        for (int col = 0; col < cols; ++col) {
-            maxPoints = Math.max(maxPoints, previousRow[col]);
-        }
-
-        return maxPoints;
+        return ans;
     }
 }
