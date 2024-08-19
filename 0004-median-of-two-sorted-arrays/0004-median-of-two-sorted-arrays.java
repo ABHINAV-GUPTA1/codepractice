@@ -3,16 +3,19 @@ class Solution {
         int n1 = nums1.length;
         int n2 = nums2.length;
         if (n1 > n2) {
-            return findMedianSortedArrays(nums2, nums1);
+            return findMedianSortedArrays(nums2, nums1); 
         }
-        int l1, l2, r1, r2;
-        int m1, m2;
-        int n = n1+n2;
+        int n = (n1+n2);
         int lh = (n+1) / 2;
+        int rh;
+
+        int l1, r1, l2, r2;
         int low = 0;
         int high = n1;
+        int m1;
+        int m2;
         while (low <= high) {
-            m1 = low + (high - low) / 2;
+            m1 = low + (high - low)/ 2;
             m2 = lh - m1;
 
             l1 = m1 > 0 ? nums1[m1-1] : Integer.MIN_VALUE;
@@ -23,7 +26,7 @@ class Solution {
 
             if (l1 <= r2 && l2 <= r1) {
                 if (n%2 == 0) {
-                    return (Math.max(l1, l2) + Math.min(r1, r2))/2.0; 
+                    return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0; 
                 }
                 return Math.max(l1, l2)*1.0;
             }
@@ -34,6 +37,7 @@ class Solution {
                 low = m1 + 1;
             }
         }
+
         return 0;
     }
 }
