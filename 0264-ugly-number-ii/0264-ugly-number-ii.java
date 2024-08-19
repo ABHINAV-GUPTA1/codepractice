@@ -1,29 +1,31 @@
 class Solution {
     public int nthUglyNumber(int n) {
         int[] dp = new int[n+1];
-        int nugly = 1;
-        int nu2 = 2;
-        int nu3 = 3;
-        int nu5 = 5;
-        dp[0] =1;
-        int ni2 = 0, ni3=0, ni5 = 0;
-        for (int i = 1; i < n; i++) {
-            nugly = Math.min(nu2, Math.min(nu3, nu5));
-            dp[i] = nugly;
-            if (nugly == nu2) {
-                ni2++;
-                nu2 = dp[ni2]*2;
-            }
-            if (nugly == nu3) {
-                ni3++;
-                nu3 = dp[ni3]*3;
-            }
-            if (nugly == nu5) {
-                ni5++;
-                nu5 = dp[ni5]*5;
-            }
+        dp[0] = -1;
+        dp[1] = 1;
+        int i2 = 1;
+        int i3 = 1;
+        int i5 = 1;
+        int n2, n3, n5;
+        int val;
+        for (int i = 2; i <= n; i++) {
+            n2 = dp[i2] * 2;
+            n3 = dp[i3] * 3;
+            n5 = dp[i5] * 5;
+            val = Math.min(Math.min(n2, n3), n5);
 
+            if (val == n2) {
+                i2++;
+            }
+            if (val == n3) {
+                i3++;
+            }
+            if (val == n5) {
+                i5++;
+            }
+            dp[i] = val;
         }
-        return nugly;
+
+        return dp[n];
     }
 }
