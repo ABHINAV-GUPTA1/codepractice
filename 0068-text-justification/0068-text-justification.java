@@ -35,7 +35,9 @@ class Solution {
             if (i == j-1) {
                 break;
             }
-            sb.append(EMPTY.repeat(eachWordSpace));
+            for (int space = 0; space < eachWordSpace; space++) {
+                sb.append(EMPTY);
+            }
             if (extraSpaces > 0) {
                 sb.append(EMPTY);
                 extraSpaces--;
