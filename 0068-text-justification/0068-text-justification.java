@@ -1,53 +1,53 @@
 class Solution {
     public List<String> fullJustify(String[] words, int maxWidth) {
-        int i = 0; 
-        int n = words.length;
         List<String> res = new ArrayList<>();
+        int i = 0;
+        int n = words.length;
         while (i < n) {
-            int j = i+1;
-            int wordLen = words[i].length();
-            int spaces = 0;
-            while (j < n && spaces+wordLen + words[j].length()+1 <= maxWidth) {
-                wordLen += words[j].length();
-                spaces++;
-                j++;
-            } 
+            int space = 0;
+            int j = i + 1;
+            int currLen = words[i].length();
 
-            int remSpaces = maxWidth - wordLen;
-            int eachWordSpaces = spaces == 0 ? 0 : remSpaces / spaces;
-            int extraSpace = spaces == 0 ? 0 : remSpaces % spaces;
+            while (j < n && words[j].length() + currLen + 1 + space <= maxWidth) {
+                currLen += words[j].length();
+                space++;
+                j++;
+            }
+            int remSpace = maxWidth - currLen;
+            int eachWordSpace = space == 0 ? 0 : remSpace / space;
+            int extraSpace = space == 0 ? 0 : remSpace % space;
             if (j == n) {
-                eachWordSpaces = 1;
+                eachWordSpace = 1;
                 extraSpace = 0;
-            }            
+            }
+            res.add(getLine(i, j, words, eachWordSpace, extraSpace, maxWidth));
             
-            res.add(getLineJustified(i, j, eachWordSpaces, extraSpace, maxWidth, words));
             i = j;
-        }
+        }    
 
         return res;
     }
-
-    private String getLineJustified(int i, int j, int eachSpace, int extraSpace, int maxLen, String[] words) {
+    private static final String EMPTY = " ";
+    private String getLine(int i, int j, String[] arr, int eachWordSpace, int extraSpaces, int maxWidth) {
         StringBuilder sb = new StringBuilder();
-        for (int idx = i; idx < j; idx++) {
-            sb.append(words[idx]);
-            if (idx == j - 1) {
-                continue;
+        while (i < j) {
+            sb.append(arr[i]);
+            if (i == j-1) {
+                break;
             }
-            for (int space = 0; space < eachSpace; space++) {
-                sb.append(" ");
+            sb.append(EMPTY.repeat(eachWordSpace));
+            if (extraSpaces > 0) {
+                sb.append(EMPTY);
+                extraSpaces--;
             }
-            if (extraSpace > 0) {
-                sb.append(" ");
-                extraSpace--;
-            }
+            i++;
         }
 
-        while (sb.length() < maxLen) {
-            sb.append(" ");
+        while (sb.length() < maxWidth) {
+            sb.append(EMPTY);
         }
-
+        
+        System.out.println(sb.toString());
         return sb.toString();
-    } 
+    }
 }
