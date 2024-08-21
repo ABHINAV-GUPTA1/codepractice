@@ -326,6 +326,7 @@
 | [0556-next-greater-element-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
+| [0664-strange-printer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0664-strange-printer) |
 | [0680-valid-palindrome-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0696-count-binary-substrings) |
 | [0722-remove-comments](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0722-remove-comments) |
@@ -969,6 +970,7 @@
 | [0031-next-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0031-next-permutation) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
+| [0664-strange-printer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0664-strange-printer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 <!---LeetCode Topics End-->
