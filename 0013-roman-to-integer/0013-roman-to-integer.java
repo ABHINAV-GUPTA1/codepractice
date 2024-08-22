@@ -1,11 +1,12 @@
 class Solution {
+
     public int romanToInt(String s) {
-        int res = 0;
         Map<Character, Integer> map = getMap();
+        int res = 0;
         int n = s.length()-1;
-        res = map.get(s.charAt(n--));
-        int prev = res;
         int curr;
+        int prev = map.get(s.charAt(n--));
+        res = prev;
         for (int i = n; i >= 0; i--) {
             curr = map.get(s.charAt(i));
             if (prev <= curr) {
@@ -13,10 +14,11 @@ class Solution {
             } else {
                 res -= curr;
             }
+
             prev = curr;
         }
-        return res;
 
+        return res;
     }
 
     private Map<Character, Integer> getMap() {
@@ -30,4 +32,5 @@ class Solution {
         map.put('M', 1000);
         return map;
     }
+
 }
