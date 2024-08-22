@@ -15,27 +15,23 @@
  */
 class Solution {
     List<Integer> res;
-    
     public List<Integer> inorderTraversal(TreeNode root) {
         res = new ArrayList<>();
-        if (root == null) {
-            return res;
-        }
         TreeNode curr = root;
         while (curr != null) {
-            if (curr.left != null) {
-                TreeNode pre = findRight(curr.left, curr);
-                if (pre.right == null) {
-                    pre.right = curr;
+            if (curr.left == null) {
+                res.add(curr.val);
+                curr = curr.right;
+            } else {
+                TreeNode prev = findRight(curr.left, curr);
+                if (prev.right == null) {
+                    prev.right = curr;
                     curr = curr.left;
                 } else {
-                    pre.right = null;
+                    prev.right = null;
                     res.add(curr.val);
                     curr = curr.right;
                 }
-            } else {
-                res.add(curr.val);
-                curr = curr.right;
             }
         }
         return res;
@@ -46,7 +42,7 @@ class Solution {
             curr = curr.right;
         }
         return curr;
-    }
+    } 
 
     public List<Integer> inorderTraversal2(TreeNode root) {
         res = new ArrayList<>();
