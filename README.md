@@ -212,6 +212,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0863-sum-of-distances-in-tree) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
@@ -453,6 +454,7 @@
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0450-delete-node-in-a-bst) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -553,6 +555,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0739-daily-temperatures) |
+| [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
