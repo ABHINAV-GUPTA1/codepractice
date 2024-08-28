@@ -86,6 +86,7 @@
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -290,6 +291,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -520,6 +522,7 @@
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1446-angle-between-hands-of-a-clock) |
@@ -709,6 +712,7 @@
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 ## Randomized
 |  |
@@ -775,6 +779,7 @@
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
@@ -868,6 +873,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 ## Line Sweep
 |  |
 | ------- |
@@ -1004,4 +1010,8 @@
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
+## Geometry
+|  |
+| ------- |
+| [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
