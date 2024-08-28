@@ -331,6 +331,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -558,6 +559,7 @@
 | [0227-basic-calculator-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+| [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0503-next-greater-element-ii) |
@@ -995,6 +997,7 @@
 | [0031-next-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0031-next-permutation) |
 | [0101-symmetric-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0101-symmetric-tree) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
+| [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0664-strange-printer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0664-strange-printer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
