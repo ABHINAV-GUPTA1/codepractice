@@ -14,7 +14,8 @@ class Solution {
             return 1;
         }
         for (int i = 0; i < n; i++) {
-            nums[Math.abs(nums[i]) - 1] = - Math.abs(nums[Math.abs(nums[i]) - 1]);
+            int idx = Math.abs(nums[i]) - 1; 
+            nums[idx] = -Math.abs(nums[idx]);
         }
 
         for (int i = 1; i < n; i++) {
