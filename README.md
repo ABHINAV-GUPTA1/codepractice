@@ -113,6 +113,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
+| [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -228,6 +229,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
+| [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -249,6 +251,7 @@
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
+| [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 ## Matrix
 |  |
 | ------- |
@@ -994,5 +997,6 @@
 | [0664-strange-printer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0664-strange-printer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
+| [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2577-count-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2577-count-palindromic-subsequences) |
 <!---LeetCode Topics End-->
