@@ -1,7 +1,61 @@
 class Solution {
+    
+    int[] parent;
+    int[] rank;
+
+    int find(int x) {
+        if (parent[x] != x) {
+            parent[x] = find(parent[x]);
+        }
+
+        return parent[x];
+    }
+
+    void union(int a, int b) {
+        int fa = find(a);
+        int fb = find(b);
+        if (fa != fb) {
+            if (rank[fa] >= rank[fb]) {
+                parent[fb] = fa;
+                rank[fa]++;
+            } else {
+                parent[fa] = fb;
+                rank[fb]++; 
+            }
+        }
+
+
+    }
+
+    public int removeStones(int[][] stones) {
+        int n = stones.length;
+        parent = new int[n];
+        rank = new int[n];
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
+        }
+
+        for (int i = 0; i < n; i++) {
+            for (int j = i+1; j < n; j++) {
+                if (stones[i][0] == stones[j][0] || stones[i][1] == stones[j][1]) {
+                    union(i, j);
+                }
+            }
+        }
+
+        int totalGroups = 0;
+
+        for (int i = 0; i < n; i++) {
+            if (parent[i] == i) {
+                totalGroups++;
+            }
+        }
+
+        return n - totalGroups;
+    }
 
     static List<Integer> emptyList = new ArrayList<>();
-    public int removeStones(int[][] stones) {
+    public int removeStones1(int[][] stones) {
         Map<Integer, List<Integer>> map = new HashMap<>();
         int n = stones.length;
         for (int i = 0; i < n; i++) {
