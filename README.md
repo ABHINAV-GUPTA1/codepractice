@@ -235,6 +235,7 @@
 | [1300-critical-connections-in-a-network](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1300-critical-connections-in-a-network) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
@@ -453,6 +454,7 @@
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -504,6 +506,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0647-palindromic-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0647-palindromic-substrings) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Math
 |  |
@@ -1038,4 +1041,5 @@
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
+| [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 <!---LeetCode Topics End-->
