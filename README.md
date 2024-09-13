@@ -98,6 +98,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
@@ -662,6 +663,7 @@
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -761,6 +763,7 @@
 | [0371-sum-of-two-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0476-number-complement) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0895-shortest-path-to-get-all-keys) |
+| [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
