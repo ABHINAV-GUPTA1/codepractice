@@ -1,5 +1,71 @@
 class Solution {
+    private Map<Integer, Integer> count;
+    
     public int[] topKFrequent(int[] nums, int k) {
+        int[] res = new int[k];
+        count = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            count.put(nums[i], count.getOrDefault(nums[i], 0) + 1);
+        }
+        int[] uq = new int[count.size()];
+        int idx = 0;
+        for (int u : count.keySet()) {
+            uq[idx++] = u;
+        }
+        // System.out.println(Arrays.toString(uq));
+        quickSort(uq, 0, uq.length-1, k);
+        // System.out.println(Arrays.toString(uq));
+        // System.out.println(count);
+        for (int i = 0; i < k; i++) {
+            res[i] = uq[i];
+        }
+        return res;
+    }
+
+    private void quickSort(int[] arr, int left, int right, int k) {
+        if (left > right) {
+            return;
+        }
+        while (left <= right) {
+            int part = partition(arr, left, right);
+            if (part == k-1) {
+                return;
+            }
+            if (part > k-1) {
+                right = part - 1;
+            } else {
+                left = part + 1;
+            }
+        }
+    }
+
+    private int partition(int[] arr, int left, int right) {
+        int pivot = arr[left];
+        int pivotIdx = left;
+        int i = left+1;
+        int j = right;
+        while (i <= j) {
+            if ((count.get(pivot) > count.get(arr[i])) && (count.get(pivot) < count.get(arr[j]))) {
+                int t = arr[i];
+                arr[i] = arr[j];
+                arr[j] = t;
+                i++;
+                j--;
+            }
+            if (count.get(pivot) <= count.get(arr[i])) {
+                i++;
+            }
+            if (count.get(pivot) >= count.get(arr[j])) {
+                j--;
+            } 
+        }
+        int t = pivot;
+        arr[left] = arr[j];
+        arr[j] = t;
+        return j;
+    }
+
+    public int[] topKFrequent2(int[] nums, int k) {
         int[] res = new int[k];
         int idx = 0;
         Map<Integer, Integer> map = new HashMap<>();
