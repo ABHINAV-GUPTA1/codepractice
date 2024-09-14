@@ -1,7 +1,8 @@
 class Solution {
     private Map<Integer, Integer> count;
-    
+    private Random r;
     public int[] topKFrequent(int[] nums, int k) {
+        r = new Random();
         int[] res = new int[k];
         count = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
@@ -22,6 +23,13 @@ class Solution {
         return res;
     }
 
+    void shuffle (int arr[], int low, int high) {
+        int ridx = r.nextInt(high-low+1)+low;
+        int t = arr[ridx];
+        arr[ridx] = arr[low];
+        arr[low] = t;
+    }
+
     private void quickSort(int[] arr, int left, int right, int k) {
         if (left > right) {
             return;
@@ -40,6 +48,7 @@ class Solution {
     }
 
     private int partition(int[] arr, int left, int right) {
+        shuffle(arr, left, right);
         int pivot = arr[left];
         int pivotIdx = left;
         int i = left+1;
