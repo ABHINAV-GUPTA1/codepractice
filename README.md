@@ -74,6 +74,7 @@
 | [0747-min-cost-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0747-min-cost-climbing-stairs) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0859-design-circular-deque) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
@@ -459,6 +460,7 @@
 | [0725-split-linked-list-in-parts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0725-split-linked-list-in-parts) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0859-design-circular-deque) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
@@ -843,6 +845,7 @@
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
+| [0859-design-circular-deque](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0859-design-circular-deque) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 ## Data Stream
 |  |
@@ -865,6 +868,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
+| [0859-design-circular-deque](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
