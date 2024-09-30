@@ -456,6 +456,7 @@
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
+| [0432-all-oone-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0432-all-oone-data-structure) |
 | [0445-add-two-numbers-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0445-add-two-numbers-ii) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0725-split-linked-list-in-parts) |
@@ -696,6 +697,7 @@
 | [0380-insert-delete-getrandom-o1](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
+| [0432-all-oone-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0432-all-oone-data-structure) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0496-next-greater-element-i) |
@@ -844,6 +846,7 @@
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0432-all-oone-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
@@ -1053,6 +1056,7 @@
 | [0101-symmetric-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0101-symmetric-tree) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
+| [0432-all-oone-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0664-strange-printer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0664-strange-printer) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
