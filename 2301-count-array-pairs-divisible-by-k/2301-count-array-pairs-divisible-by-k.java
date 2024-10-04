@@ -1,22 +1,26 @@
 class Solution {
     public long countPairs(int[] nums, int k) {
+        Map<Integer, Integer> map = new HashMap<>();
         long ans = 0;
-        long common, want;
-        Map<Long, Long> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
-            common = gcd (nums[i], k);
-            want = k / common;
-            for (Map.Entry<Long, Long> me : map.entrySet()) {
-                if (me.getKey()%want == 0) {
-                    ans += me.getValue();
+            int gcd = gcd(nums[i], k);
+            int req = k / gcd;
+            for (int key : map.keySet()) {
+                if (key%req == 0) {
+                    ans += map.get(key);
                 }
             }
-            map.put(common, map.getOrDefault(common, 0l)+1);
+            map.put(gcd, map.getOrDefault(gcd, 0)+1);
         }
+
         return ans;
+
     }
 
-    private long gcd(int a, int b) {
-        return b == 0 ? (long) a : gcd(b, a%b);
+    private int gcd(int a, int b) {
+        if (a == 0) {
+            return b;
+        }
+        return gcd(b%a, a);
     }
 }
