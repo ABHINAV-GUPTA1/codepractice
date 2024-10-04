@@ -173,6 +173,7 @@
 | [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
