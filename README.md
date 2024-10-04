@@ -135,6 +135,7 @@
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -323,6 +324,7 @@
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
@@ -727,6 +729,7 @@
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
