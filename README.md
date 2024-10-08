@@ -173,6 +173,7 @@
 | [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 ## Binary Search
@@ -381,6 +382,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -611,6 +613,7 @@
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 ## Recursion
@@ -646,6 +649,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
