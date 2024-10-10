@@ -87,6 +87,7 @@
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
+| [1002-maximum-width-ramp](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1002-maximum-width-ramp) |
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -610,6 +611,7 @@
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1002-maximum-width-ramp](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1002-maximum-width-ramp) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
@@ -952,6 +954,7 @@
 | [0496-next-greater-element-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0739-daily-temperatures) |
+| [1002-maximum-width-ramp](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1002-maximum-width-ramp) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
 ## Monotonic Queue
 |  |
