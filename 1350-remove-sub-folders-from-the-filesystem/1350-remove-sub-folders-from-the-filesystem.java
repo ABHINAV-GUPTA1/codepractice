@@ -13,11 +13,13 @@ class Solution {
     public void insert(Trie root, String s) {
         Trie t = root;
         String str[] = s.split("/");
-        if (str.length < 1) {
-            return;
-        }
-        if (str.length < 2 && str[0].trim().isEmpty()) {
-            return;
+        if (str.length < 2) {
+            if (str.length < 1) {
+                return;
+            }
+            if (str[0].trim().isEmpty()) {
+                return;
+            }
         }
         if (!t.child.containsKey("/")) {
             t.child.put("/", new Trie());
