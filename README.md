@@ -100,6 +100,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -245,6 +246,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1300-critical-connections-in-a-network) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
@@ -381,6 +383,7 @@
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
 | [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -974,6 +977,7 @@
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0211-design-add-and-search-words-data-structure) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Memoization
 |  |
 | ------- |
