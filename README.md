@@ -237,6 +237,7 @@
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -519,6 +520,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1116,6 +1118,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
