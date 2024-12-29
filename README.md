@@ -656,6 +656,7 @@
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
+| [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
