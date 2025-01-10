@@ -86,6 +86,7 @@
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [0921-spiral-matrix-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
+| [0952-word-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0952-word-subsets) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1002-maximum-width-ramp) |
@@ -392,6 +393,7 @@
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0874-backspace-string-compare](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0874-backspace-string-compare) |
+| [0952-word-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -764,6 +766,7 @@
 | [0817-design-hashmap](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0817-design-hashmap) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0870-magic-squares-in-grid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0870-magic-squares-in-grid) |
+| [0952-word-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
