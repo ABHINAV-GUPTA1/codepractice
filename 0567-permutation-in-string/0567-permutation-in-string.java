@@ -1,37 +1,34 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int[] map = new int[26];
-        int k = 0;
-        for (int i = 0; i < s1.length(); i++) {
+        int l1 = s1.length();
+        int l2 = s2.length();
+        int i = 0, j = 0;
+        int map[] = new int[26];
+        for (; i < l1; i++) {
             map[s1.charAt(i)-'a']++;
-            k += (s1.charAt(i)-'a');
         }
-        int head = 0;
-        int tail = 0;
-        while (tail < s2.length()) {
-            map[s2.charAt(tail)-'a']--;
-            k -= (s2.charAt(tail)-'a');
-            if (tail-head+1 > s1.length()) {
-                map[s2.charAt(head++)-'a']++;
-                k += (s2.charAt(head-1)-'a');
+        i = 0;
+        while (i < l2) {
+            map[s2.charAt(i) - 'a']--;
+            if (i-j+1 > l1) {
+                map[s2.charAt(j++)-'a']++;
             }
-            if (k == 0 && checkMap(map)) {
+            if (check(map)) {
                 return true;
             }
-            tail++;
+            i++;
         }
 
         return false;
     }
 
-    private boolean checkMap(int[] map) {
-        for (int i = 0; i < 26; i++) {
+    private boolean check(int[] map) {
+        for (int i = 0; i <26; i++) {
             if (map[i] != 0) {
                 return false;
             }
         }
+
         return true;
     }
-
-
 }
