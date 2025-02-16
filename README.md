@@ -122,6 +122,7 @@
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -965,6 +966,7 @@
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
 | [0216-combination-sum-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Simulation
 |  |
 | ------- |
