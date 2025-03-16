@@ -154,6 +154,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2690-house-robber-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2690-house-robber-iv) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -225,6 +226,7 @@
 | [2586-longest-square-streak-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2586-longest-square-streak-in-an-array) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2665-minimum-time-to-repair-cars](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2690-house-robber-iv) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 ## Depth-First Search
