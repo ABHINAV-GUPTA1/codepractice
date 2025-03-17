@@ -176,6 +176,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
