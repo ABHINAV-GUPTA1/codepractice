@@ -60,6 +60,7 @@
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
@@ -476,6 +477,7 @@
 | [0368-largest-divisible-subset](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
