@@ -448,6 +448,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Dynamic Programming
@@ -637,6 +638,7 @@
 | [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Search Tree
 |  |
