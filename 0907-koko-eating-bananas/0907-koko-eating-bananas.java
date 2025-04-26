@@ -22,8 +22,9 @@ class Solution {
 
     private boolean isValid(int[] arr, int mid, int h) {
         int count = 0;
+        double t = mid;
         for (int i = 0; i < arr.length; i++) {
-            count += Math.ceil((double)arr[i] / mid);
+            count += Math.ceil(arr[i] / t);
         }
         return count <= h;
     }
