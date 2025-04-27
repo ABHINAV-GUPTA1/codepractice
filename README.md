@@ -1220,4 +1220,8 @@
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
+## Concurrency
+|  |
+| ------- |
+| [1216-print-zero-even-odd](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1216-print-zero-even-odd) |
 <!---LeetCode Topics End-->
