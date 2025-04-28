@@ -9,10 +9,39 @@
  * }
  */
 class Solution {
+
     public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
         ListNode ans = new ListNode(-1);
         ListNode dummy = ans;
+        
+        while (list1 != null && list2 != null) {
+            if (list1.val < list2.val) {
+                dummy.next = list1;
+                list1 = list1.next;
+            } else {
+                dummy.next = list2;
+                list2 = list2.next;
+            }
+            dummy = dummy.next;
+        }
 
+        if (list1 != null) {
+            dummy.next = list1;
+            while (list1.next != null) {
+                list1 = list1.next;
+            }
+            list1.next = list2;
+        } else {
+            dummy.next = list2;
+        }
+        
+        return ans.next;
+    }
+
+    public ListNode mergeTwoLists_method1(ListNode list1, ListNode list2) {
+        ListNode ans = new ListNode(-1);
+        ListNode dummy = ans;
+        
         while (list1 != null && list2 != null) {
             if (list1.val < list2.val) {
                 dummy.next = list1;
@@ -28,14 +57,13 @@ class Solution {
             dummy.next = list1;
             list1 = list1.next;
             dummy = dummy.next;
-        }
-
+        } 
+        
         while (list2 != null) {
             dummy.next = list2;
             list2 = list2.next;
             dummy = dummy.next;
         }
-
         return ans.next;
     }
 }
