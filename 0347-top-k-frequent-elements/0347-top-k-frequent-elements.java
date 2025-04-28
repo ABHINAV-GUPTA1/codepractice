@@ -1,7 +1,39 @@
 class Solution {
+
+    public int[] topKFrequent(int[] nums, int k) {
+        Map<Integer, Integer> count = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            count.put(nums[i], count.getOrDefault(nums[i], 0) + 1);
+        }
+        List<Integer>[] listArr = new List[nums.length+1];
+        for (Map.Entry<Integer, Integer> me : count.entrySet()) {
+            int val = me.getValue();
+            int key = me.getKey();
+            if (listArr[val] == null) {
+                listArr[val] = new ArrayList<>();
+            }
+            listArr[val].add(key);
+        }
+
+        int idx = 0;
+        int[] res = new int[k];
+        for (int i = listArr.length - 1; i >= 0; i--) {
+            if (listArr[i] == null) {
+                continue;
+            }
+            for (Integer tval: listArr[i]) {
+                if (idx >= k) {
+                    return res;
+                }
+                res[idx++] = tval;
+            }
+        }
+        return res;
+    }
+
     Map<Integer, Integer> count;
     Random r;
-    public int[] topKFrequent(int[] nums, int k) {
+    public int[] topKFrequent_QuickSort(int[] nums, int k) {
         r = new Random();
         count = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
