@@ -46,6 +46,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
@@ -365,6 +366,7 @@
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
@@ -807,6 +809,7 @@
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
+| [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
@@ -876,6 +879,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0215-kth-largest-element-in-an-array) |
