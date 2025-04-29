@@ -188,6 +188,7 @@
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -788,6 +789,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Prefix Sum
 |  |
 | ------- |
