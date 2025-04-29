@@ -48,6 +48,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0209-minimum-size-subarray-sum) |
@@ -634,6 +635,7 @@
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0227-basic-calculator-ii) |
 | [0263-ugly-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0263-ugly-number) |
