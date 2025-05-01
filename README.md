@@ -516,6 +516,7 @@
 | [0338-counting-bits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
