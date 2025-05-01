@@ -378,6 +378,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
@@ -433,6 +434,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0227-basic-calculator-ii) |
+| [0242-valid-anagram](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
@@ -834,6 +836,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
