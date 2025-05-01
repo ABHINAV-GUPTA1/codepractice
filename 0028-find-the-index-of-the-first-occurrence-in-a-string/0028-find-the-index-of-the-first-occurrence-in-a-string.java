@@ -1,43 +1,45 @@
 class Solution {
     public int strStr(String haystack, String needle) {
-        int[] lps = computeLPS(needle); // create LPS longest prefix suffix 
+        int lps[] = computeLPS(needle);
         int i = 0;
         int j = 0;
-        int n = haystack.length();
-        while (i < n) {
+        int length = haystack.length();
+        while (i < length) {
             if (haystack.charAt(i) == needle.charAt(j)) {
                 i++;
                 j++;
                 if (j == needle.length()) {
-                    return i-j;
+                    return i - j;
                 }
             } else {
-                if (j != 0) {
-                    j = lps[j-1];
-                } else {
+                if (j == 0) {
                     i++;
+                } else {
+                    j = lps[j - 1];
                 }
             }
         }
         return -1;
     }
 
-    int[] computeLPS(String s) {
+    private int[] computeLPS(String s) {
         int i = 1;
         int j = 0;
-        int[] lps = new int[s.length()];
+        int len = s.length();
+        int[] lps = new int[len];
         lps[0] = 0;
-        while (i < s.length()) {
+        while (i < len) {
             if (s.charAt(i) == s.charAt(j)) {
                 lps[i++] = ++j;
             } else {
-                if (j != 0) {
-                    j = lps[j-1];
-                } else {
+                if (j == 0) {
                     i++;
+                } else {
+                    j = lps[j-1];
                 }
             }
         }
+
         return lps;
     }
 }
