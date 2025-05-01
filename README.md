@@ -427,6 +427,7 @@
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0227-basic-calculator-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0227-basic-calculator-ii) |
@@ -827,6 +828,7 @@
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
 | [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
