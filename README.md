@@ -74,6 +74,7 @@
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
@@ -255,6 +256,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
@@ -535,6 +537,7 @@
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
+| [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
@@ -769,6 +772,7 @@
 | [0011-container-with-most-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0624-maximum-distance-in-arrays) |
@@ -819,6 +823,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
