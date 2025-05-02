@@ -27,9 +27,8 @@ class Solution {
         int count = 1;
         int sum = arr[0];
         for (int i = 1; i < arr.length; i++) {
-            if (sum + arr[i] <= mid) {
-                sum += arr[i];
-            } else {
+            sum += arr[i];
+            if (sum > mid) {
                 sum = arr[i];
                 count++;
             }
