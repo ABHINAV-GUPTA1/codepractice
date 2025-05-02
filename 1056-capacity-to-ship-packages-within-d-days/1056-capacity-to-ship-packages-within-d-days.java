@@ -21,10 +21,10 @@ class Solution {
     }
 
     private boolean isPossible(int[] arr, int mid, int days) {
-        int sum = 0;
+        int sum = arr[0];
         int count = 1;
 
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 1; i < arr.length; i++) {
             if (sum + arr[i] <= mid) {
                 sum += arr[i];
             } else {
