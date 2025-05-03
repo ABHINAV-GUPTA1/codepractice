@@ -6,13 +6,17 @@ class Solution {
             xor ^= nums[i];
         } 
         int diffBit = 0;
-        for (int bit = 0; bit < 32; bit++) {
+        /*for (int bit = 0; bit < 32; bit++) {
             int k = (1 << bit);
             if ((xor&k) != 0) {
                 diffBit = k;
                 break;
             }
         }
+        */
+        diffBit = (xor & (-xor));
+
+
         //ans[0] represents groupA
         //ans[1] represents groupB
         for (int i = 0; i < nums.length; i++) {
