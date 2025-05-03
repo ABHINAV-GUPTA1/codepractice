@@ -7,10 +7,11 @@ class Solution {
             map.computeIfAbsent(String.valueOf(arr), x->new ArrayList<>()).add(str);
         }
 
-        List<List<String>> res = new ArrayList<>();
-        for (Map.Entry<String, List<String>> me : map.entrySet()) {
-            res.add(me.getValue());
-        }
-        return res;
+        // List<List<String>> res = new ArrayList<>();
+        // for (Map.Entry<String, List<String>> me : map.entrySet()) {
+        //     res.add(me.getValue());
+        // }
+        // return res;
+        return map.values().stream().collect(Collectors.toList());
     }
 }
