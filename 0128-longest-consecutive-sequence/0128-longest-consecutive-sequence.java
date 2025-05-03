@@ -18,9 +18,8 @@ class Solution {
                 while (set.contains(curr+1)) {
                     set.remove(curr+1);
                     curr++;
-                    count++;
                 }
-                ans = Math.max(ans, count);
+                ans = Math.max(ans, curr - nums[idx] + 1);
             }
             idx++;
         }
