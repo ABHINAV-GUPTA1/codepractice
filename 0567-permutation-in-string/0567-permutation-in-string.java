@@ -1,35 +1,43 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        int[] map = new int[26];
-        int l1 = s1.length();
-        int l2 = s2.length();
-        for (int i = 0; i < l1; i++) {
-            map[s1.charAt(i)-'a']++;
+        int s1len = s1.length();
+        int s2len = s2.length();
+        if (s1len > s2len) {
+            return false;
         }
-        int head = 0;
-        int tail = 0;
-        while (tail < l2) {
-            map[s2.charAt(tail)-'a']--;
-            if (tail-head+1 > l1) {
-                map[s2.charAt(head++)-'a']++;
-            }
-            if (checkMap(map)) {
+        int[] map1 = new int[26];
+        int[] map2 = new int[26];
+        for (int i = 0; i < s1len; i++) {
+            map1[s1.charAt(i) - 'a']++;
+            map2[s2.charAt(i) - 'a']++;
+        }     
+        int count = 0;
+        for (int i = 0; i < 26; i++) {
+            count += map1[i] == map2[i] ? 1 : 0;
+        }
+        int head = 0, tail = s1len;
+        while (tail < s2len) {
+            if (count == 26) {
                 return true;
             }
-            tail++;
-        }
-
-        return false;
-    }
-
-    private boolean checkMap(int[] map) {
-        for (int i = 0; i < 26; i++) {
-            if (map[i] != 0) {
-                return false;
+            int idx = s2.charAt(tail) - 'a';
+            map2[idx]++;
+            if (map2[idx] == map1[idx]) {
+                count++;
+            } else if (map2[idx] - 1 == map1[idx]){
+                count--;
             }
+            tail++;
+
+            idx = s2.charAt(head) - 'a';
+            map2[idx]--;
+            if (map2[idx] == map1[idx]) {
+                count++;
+            } else if (map2[idx] + 1 == map1[idx]) {
+                count--;
+            }
+            head++;
         }
-        return true;
+        return count == 26;
     }
-
-
 }
