@@ -13,11 +13,16 @@ class Solution {
             res.add(str);
             return;
         }
+        StringBuilder sb = new StringBuilder(str);
         if (open < n) {
-            generate(str+"(", n, open + 1, close, res);
+            sb.append("(");
+            generate(sb.toString(), n, open + 1, close, res);
+            sb.setLength(sb.length() - 1);
         }
         if (close < open) {
-            generate(str+")", n, open, close + 1, res);
+            sb.append(")");
+            generate(sb.toString(), n, open, close + 1, res);
+            sb.setLength(sb.length() - 1);
         }
     }
 }
