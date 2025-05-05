@@ -1,34 +1,32 @@
 class Solution {
     public String minWindow(String s, String t) {
-        Map<Character, Integer> map = new HashMap<>();
-        int sn = s.length();
-        int tn = t.length();
-        for (int i = 0; i < tn; i++) {
-            map.put(t.charAt(i), map.getOrDefault(t.charAt(i), 0) + 1);
+        int[] map1 = new int[256];
+        for (int i = 0; i < t.length(); i++) {
+            map1[t.charAt(i)]++;
         }
-        int val = 0;
-        int head = 0, tail = 0;
-        int start = -1;
-        int minLen = sn + 1;
-        while (tail < sn) {
-            int cnt = map.getOrDefault(s.charAt(tail), 0) - 1;
-            map.put(s.charAt(tail), cnt);
-            if (cnt >= 0) {
-                val++;
+        int l = 0, r = 0;
+        int len = s.length();
+        int count = 0;
+        int minlen = Integer.MAX_VALUE, startIdx = -1;
+        while (r < len) {
+            map1[s.charAt(r)]--;
+            if (map1[s.charAt(r)] >= 0) {
+                count++;
             }
-            while (val == tn) {
-                if (tail-head+1 < minLen) {
-                    minLen = tail-head+1;
-                    start = head;
+            while (count == t.length()) {
+                if ((r - l + 1) < minlen) {
+                    minlen = Math.min(minlen, r - l + 1);
+                    startIdx = l;
                 }
-                cnt = map.get(s.charAt(head)) + 1;
-                if (cnt > 0) {
-                    val--;
+                map1[s.charAt(l)]++;
+                if (map1[s.charAt(l)] > 0) {
+                    count--;
                 }
-                map.put(s.charAt(head++), cnt);
+                l++;
             }
-            tail++;
+            r++;
         }
-        return start == -1 ? "" : s.substring(start, start+minLen);
+
+        return (minlen == Integer.MAX_VALUE) ? "" : s.substring(startIdx, startIdx + minlen); 
     }
 }
