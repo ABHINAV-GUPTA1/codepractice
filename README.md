@@ -516,6 +516,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
