@@ -587,6 +587,7 @@
 | [0141-linked-list-cycle](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
 | [0432-all-oone-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0432-all-oone-data-structure) |
@@ -769,6 +770,7 @@
 | [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0234-palindrome-linked-list) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
