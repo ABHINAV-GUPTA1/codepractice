@@ -9,80 +9,36 @@
  * }
  */
 class Solution {
-
     public void reorderList(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-
+        ListNode slow = head, fast = head;
         while (fast != null && fast.next != null) {
-            fast = fast.next.next;
             slow = slow.next;
+            fast = fast.next.next;
+        }
+        ListNode rev = reverse(slow); // reverse half part
+        ListNode t1 = head;
+        while (t1 != null && rev != null) {
+            ListNode headnext = t1.next;
+            ListNode revnext = rev.next;
+
+            t1.next = rev;
+            rev.next = headnext;
+
+            t1 = headnext;
+            rev = revnext;
         }
 
-        ListNode rev = reverse(slow);
-
-        ListNode tl = head;
-        while (tl != null && rev != null) {
-            ListNode headNext = tl.next;
-            ListNode revNext = rev.next;
-            
-            tl.next = rev;
-            rev.next = headNext;
-            
-            tl = headNext;
-            rev = revNext;
-        }
-        if (tl != null) {
-            tl.next = null;
+        if (t1 != null) {
+            t1.next = null;
         }
         if (rev != null) {
             rev.next = null;
         }
     }
 
-    public void reorderList1(ListNode head) {
-        ListNode slow = head;
-        ListNode fast = head;
-
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
-            slow = slow.next;
-        }
-
-        ListNode rev = reverse(slow);
-
-        ListNode tl = head;
-        boolean add = true;
-        ListNode ans = new ListNode (-1);
-        ListNode res = ans;
-        while (tl != null) {
-            if (rev == null) {
-                break;
-            }
-            if (add) {
-                ans.next = tl;
-                tl = tl.next;
-            } else {
-                ans.next = rev;
-                rev = rev.next;
-            }
-            add = !add;
-            ans = ans.next;
-        }
-
-        // print(res.next);
-    }
-
-    private void print(ListNode root) {
-        while (root != null) {
-            System.out.print(root.val+" ");
-            root = root.next;
-        }
-    }
-
-    private ListNode reverse(ListNode curr) {
-        ListNode next = null, prev = null;
-
+    private ListNode reverse(ListNode head) {
+        ListNode curr = head, prev = null, next = null;
+        
         while (curr != null) {
             next = curr.next;
             curr.next = prev;
