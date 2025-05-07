@@ -10,41 +10,49 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        return merge(0, lists.length-1, lists);
+        return mergeList(lists, 0, lists.length - 1);
     }
 
-    private ListNode merge(int left, int right, ListNode[] arr) {
-        if (left == right) {
-            return arr[left];
-        }
+    private ListNode mergeList(ListNode[] lists, int left, int right) {
         if (left > right) {
             return null;
         }
 
+        if (left == right) {
+            return lists[left];
+        }
         int mid = left + (right - left) / 2;
-        return mergeArr(merge(left, mid, arr), merge(mid+1, right, arr));
-    } 
+        return mergeArr(mergeList(lists, left, mid), mergeList(lists, mid + 1, right));
+    }
 
     private ListNode mergeArr(ListNode l1, ListNode l2) {
-        ListNode res = new ListNode(-1);
-        ListNode ans = res;
+        ListNode ans = new ListNode(-1);
+        ListNode res = ans;
+
         while (l1 != null && l2 != null) {
-            if (l1.val > l2.val) {
-                ans.next = l2;
-                l2 = l2.next;
-            } else {
+            if (l1.val < l2.val) {
                 ans.next = l1;
                 l1 = l1.next;
+            } else {
+                ans.next = l2;
+                l2 = l2.next;
             }
             ans = ans.next;
         }
-        if (l1 != null) {
+
+        while (l1 != null) {
             ans.next = l1;
+            l1 = l1.next;
+            ans = ans.next;
         }
-        if (l2 != null) {
+
+        while (l2 != null) {
             ans.next = l2;
+            l2 = l2.next;
+            ans = ans.next;
         }
 
         return res.next;
+        
     }
 }
