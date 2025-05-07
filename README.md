@@ -311,6 +311,7 @@
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -628,6 +629,7 @@
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0572-subtree-of-another-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0783-search-in-a-binary-search-tree) |
@@ -1320,6 +1322,7 @@
 | [0027-remove-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
+| [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1216-print-zero-even-odd](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1216-print-zero-even-odd) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
