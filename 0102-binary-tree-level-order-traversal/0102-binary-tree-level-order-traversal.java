@@ -23,19 +23,20 @@ class Solution {
         q.offer(root);
         while (!q.isEmpty()) {
             int size = q.size();
-            List<Integer> tlist = new ArrayList<>(size);
-            while (size-- >  0) {
-                TreeNode t = q.poll();
-                tlist.add(t.val);
-                if (t.left != null) {
-                    q.offer(t.left);
+            List<Integer> tlist = new ArrayList<>();
+            while (size-- > 0) {
+                TreeNode tmp = q.poll();
+                tlist.add(tmp.val);
+                if (tmp.left != null) {
+                    q.offer(tmp.left);
                 }
-                if (t.right != null) {
-                    q.offer(t.right);
+                if (tmp.right != null) {
+                    q.offer(tmp.right);
                 }
             }
             res.add(tlist);
         }
+
         return res;
     }
 }
