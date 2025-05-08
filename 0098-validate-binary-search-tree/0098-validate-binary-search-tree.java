@@ -15,21 +15,20 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        return isValid(root, Double.NEGATIVE_INFINITY, Double.POSITIVE_INFINITY);    
-    }
-
-    boolean isValid(TreeNode root, double min, double max) {
         if (root == null) {
             return true;
         }
+        return isValidBST(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
 
-        if (root.val <= min || root.val >= max) {
+    private boolean isValidBST(TreeNode root, long min, long max) {
+        if (root == null) {
+            return true;
+        }
+        if (root.val >= max || root.val <= min) {
             return false;
         }
-
-        boolean left = isValid(root.left, min, root.val);
-        boolean right = isValid(root.right, root.val, max);
-
-        return left && right;
+        return isValidBST(root.left, min, root.val) 
+                && isValidBST(root.right, root.val, max);
     }
 }
