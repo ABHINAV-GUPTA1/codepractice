@@ -1,8 +1,20 @@
 class Solution {
     public int combinationSum4(int[] nums, int target) {
         int[] dp = new int[target+1];
-        Arrays.fill(dp, -1);
-        return f(nums, target, dp);
+        // Arrays.fill(dp, -1);
+        dp[0] = 1;
+        for (int i = 1; i <= target; i++) {
+            int res = 0;
+            for (int j = 0; j < nums.length; j++) {
+                if (i - nums[j] >= 0) {
+                    int take = dp[i - nums[j]];
+                    res += take;
+                }
+            }
+            dp[i] = res;
+        }
+        return dp[target];
+        // return f(nums, target, dp);
     }
 
     private int f(int[] arr, int target, int[] dp) {
