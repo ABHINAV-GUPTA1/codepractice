@@ -1,6 +1,6 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        Arrays.sort(nums);
+        // Arrays.sort(nums);
         List<List<Integer>> res = new ArrayList<>();
         dfs(nums, 0, new ArrayList<>(), res);
         return res;
