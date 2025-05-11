@@ -1,26 +1,24 @@
 class Solution {
     public String getPermutation(int n, int k) {
-        List<Integer> arr = new ArrayList<>(n);
-        int[] fact = new int[n+1];
         StringBuilder sb = new StringBuilder();
-        fact[0] = 1;
-        int sum = 1;
-        for (int i = 1; i <= n; i++) {
-            sum *= i;
-            fact[i] = sum;
-            arr.add(i);
+        List<Integer> nums = new ArrayList<>();
+        int fact = 1;
+        for (int i = 1; i < n; i++) {
+            fact = fact * i;
+            nums.add(i);
         }
-
-        k--; // as 0 based indexing
+        nums.add(n);
         
-        for (int i = 1; i <= n; i++) {
-            int idx = k / fact[n-i];
-            sb.append(arr.get(idx));
-            arr.remove(idx);
-            k -= idx*fact[n-i];
+        k--;
+        while (true) {
+            int idx = k / fact;
+            sb.append(nums.get(idx));
+            nums.remove(idx);
+            if (nums.size() == 0) {
+                return sb.toString();
+            }
+            k = k % fact;
+            fact = fact / nums.size(); 
         }
-
-        return sb.toString();
-
     }
 }
