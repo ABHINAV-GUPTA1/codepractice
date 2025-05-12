@@ -295,6 +295,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
