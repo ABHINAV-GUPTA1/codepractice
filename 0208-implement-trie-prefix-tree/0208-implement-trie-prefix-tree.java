@@ -6,7 +6,7 @@ class TrieNode {
     }
 } 
 class Trie {
-    TrieNode root;
+    private TrieNode root;
     public Trie() {
         root = new TrieNode();
     }
