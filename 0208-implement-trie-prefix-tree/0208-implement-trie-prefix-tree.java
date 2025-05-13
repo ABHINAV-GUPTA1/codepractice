@@ -1,50 +1,50 @@
 class TrieNode {
-     TrieNode[] words;
-    boolean isWord = false;
+    TrieNode[] child;
+    boolean isEnd;
     TrieNode() {
-        isWord = false;
-         words = new TrieNode[26];
+        child = new TrieNode[26]; 
     }
-}
+} 
 class Trie {
-
     TrieNode root;
     public Trie() {
         root = new TrieNode();
     }
     
     public void insert(String word) {
-        char arr[] = word.toCharArray();
-        TrieNode p = root;
-        for (char c : arr) {
-            if (p.words[c-'a'] == null) {
-                p.words[c-'a'] = new TrieNode();
-            }            
-            p = p.words[c-'a'];
+        TrieNode tmp = root;
+        int len = word.length();
+        for (int i = 0; i < len; i++) {
+            int idx = word.charAt(i) - 'a';
+            if (tmp.child[idx] == null) {
+                tmp.child[idx] = new TrieNode();
+            }
+            tmp = tmp.child[idx];
         }
-        p.isWord = true;
+        tmp.isEnd = true;
     }
     
     public boolean search(String word) {
-        TrieNode p = root;
-        for (char c : word.toCharArray()) {
-            if (p.words[c-'a'] == null) {
-                return false;
+        TrieNode tmp = searchInTrieNode(word);
+        return tmp != null ? tmp.isEnd : false;
+    }
+
+    private TrieNode searchInTrieNode(String word) {
+        int len = word.length();
+        TrieNode tmp = root;
+        for (int i = 0; i < len; i++) {
+            int idx = word.charAt(i) - 'a';
+            if (tmp.child[idx] == null) {
+                return null;
             }
-            p = p.words[c-'a'];
+            tmp = tmp.child[idx];
         }
-        return p.isWord;
+        return tmp;
     }
     
     public boolean startsWith(String prefix) {
-        TrieNode p = root;
-        for (char c : prefix.toCharArray()) {
-            if (p.words[c-'a'] == null) {
-                return false;
-            }
-            p = p.words[c-'a'];
-        }
-        return true;
+        TrieNode tmp = searchInTrieNode(prefix);
+        return tmp != null;
     }
 }
 
