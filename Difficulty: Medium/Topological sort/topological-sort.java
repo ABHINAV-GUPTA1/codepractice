@@ -54,7 +54,45 @@ class Main {
 
 
 class Solution {
+    
     public static ArrayList<Integer> topoSort(int V, int[][] edges) {
+        ArrayList<Integer> res = new ArrayList<>();
+        int[] in = new int[V];
+        Queue<Integer> q = new LinkedList<>();
+        List<List<Integer>> adj = new ArrayList<>();
+        
+        for (int i = 0; i < V; i++) {
+            adj.add(new ArrayList<>());
+        }
+        for (int[] e : edges) {
+            adj.get(e[0]).add(e[1]);
+        }
+        
+        for (int i = 0; i < edges.length; i++) {
+            in[edges[i][1]]++;
+        }
+        
+        for (int i = 0; i < V; i++) {
+            if (in[i] == 0) {
+                q.offer(i);
+            }
+        }
+        
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            for (int v : adj.get(u)) {
+                if (--in[v] == 0) {
+                    q.offer(v);
+                }
+            }
+            res.add(u);
+        }
+        
+        
+        return res;
+    }
+    
+    public static ArrayList<Integer> topoSort1(int V, int[][] edges) {
         ArrayList<Integer> res = new ArrayList<>();
         List<List<Integer>> adj = new ArrayList<>();
         boolean[] vis = new boolean[V];
