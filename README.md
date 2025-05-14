@@ -312,6 +312,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -1024,6 +1025,7 @@
 | ------- |
 | [0133-clone-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -1265,6 +1267,7 @@
 | [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0881-loud-and-rich](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0881-loud-and-rich) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
@@ -1360,6 +1363,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0110-balanced-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
+| [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
