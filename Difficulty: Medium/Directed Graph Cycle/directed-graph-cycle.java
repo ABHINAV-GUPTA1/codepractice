@@ -28,34 +28,33 @@ class GFG {
 class Solution {
     public boolean isCyclic(int V, int[][] edges) {
         // code here
-        List<List<Integer>> graph = new ArrayList<>() ; 
-        int[] indegree = new int[V] ; 
-        for(int i = 0 ; i < V ; i++){
-            graph.add(new ArrayList<>()); 
+        List<List<Integer>> adj = new ArrayList<>();
+        Queue<Integer> q = new LinkedList<>();
+        int[] in = new int[V];
+        int count = 0;
+        
+        for (int i = 0; i < V; i++) {
+            adj.add(new ArrayList<>());
         }
-        for(int i = 0 ; i < edges.length ; i++){
-            int u = edges[i][0] ; 
-            int v = edges[i][1] ; 
-            graph.get(u).add(v) ; 
-            indegree[v]++ ;
+        for (int[] e : edges) {
+            adj.get(e[0]).add(e[1]);
+            in[e[1]]++;
         }
-        Queue<Integer> q = new LinkedList<>() ; 
-        for(int i = 0 ; i < V ; i++){
-            if(indegree[i] == 0){
-                q.offer(i); 
+        for (int i = 0; i < V; i++) {
+            if (in[i] == 0) {
+                q.offer(i);
             }
         }
-        List<Integer> result = new ArrayList<>() ; 
-        while(!q.isEmpty()){
-            int node = q.poll() ; 
-            result.add(node) ;
-            for(int nbr : graph.get(node)){
-                indegree[nbr]-- ; 
-                if(indegree[nbr] == 0){
-                    q.offer(nbr) ; 
+        
+        while (!q.isEmpty()) {
+            int u = q.poll();
+            count++;
+            for (int v : adj.get(u)) {
+                if (--in[v] == 0) {
+                    q.offer(v);
                 }
             }
         }
-        return result.size() != V ; 
+        return count != V;
     }
 }
