@@ -1,5 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
+        int a = 1;
+        int b = 1;
+        if (n < 2) {
+            return 1;
+        }
+        for (int i = 2; i <= n; i++) {
+            int c = a + b;
+            a = b;
+            b = c;
+        }
+
+        return b;
+    }
+    public int climbStairs_method1_2(int n) {
         int[] dp = new int[n+1];
         dp[0] = 1;
         dp[1] = 1;
