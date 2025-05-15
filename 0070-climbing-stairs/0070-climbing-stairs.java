@@ -1,27 +1,26 @@
 class Solution {
-    int dp[];
     public int climbStairs(int n) {
-        // dp = new int[n+1];
-        // return f(n);
-
-        dp = new int[n+1];
-        dp[0] = dp[1] = 1;
+        int[] dp = new int[n+1];
+        dp[0] = 1;
+        dp[1] = 1;
         for (int i = 2; i <= n; i++) {
-            dp[i] = dp[i-1]+dp[i-2];
+            int take_1 = dp[i-1];
+            int take_2 = dp[i-2];
+            dp[i] = take_1 + take_2;
         }
         return dp[n];
+        // return f(n);
     }
-
-    int f(int n) {
-        if (n == 0) {
+    
+    private int f(int i) {
+        if (i == 0) {
             return 1;
         }
-        if (n == 1) {
-            return 1;
+        if (i < 0) {
+            return 0;
         }
-        if (dp[n] != 0) {
-            return dp[n];
-        }
-        return dp[n] = f(n-1) + f(n-2);
+        int take_1 = f(i-1);
+        int take_2 = f(i-2);
+        return take_1 + take_2;
     }
 }
