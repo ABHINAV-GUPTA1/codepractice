@@ -15,20 +15,21 @@
  */
 class Solution {
     public int rob(TreeNode root) {
-        int[] res = getMaxFromTree(root);
-        return Math.max(res[0], res[1]);
+        int[] sum = findSum(root);
+        return Math.max(sum[0], sum[1]);
     }
 
-    private int[] getMaxFromTree(TreeNode root) {
-        int[] res = new int[2];
+    private int[] findSum(TreeNode root) {
         if (root == null) {
-            return res;
+            return new int[2];
         }
-        int[] left = getMaxFromTree(root.left);
-        int[] right = getMaxFromTree(root.right);
-        res[0] = root.val + left[1] + right[1]; // include root
-        res[1] = Math.max(left[0], left[1]) + Math.max(right[0], right[1]); // exclude root
 
-        return res;
+        int[] left = findSum(root.left);
+        int[] right = findSum(root.right);
+
+        int withRoot = root.val + left[1] + right[1];
+        int withoutRoot = Math.max(left[1], left[0]) + Math.max(right[0], right[1]);
+
+        return new int[]{withRoot, withoutRoot};
     }
 }
