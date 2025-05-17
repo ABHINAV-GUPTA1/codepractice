@@ -545,6 +545,7 @@
 | [0062-unique-paths](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
