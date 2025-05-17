@@ -465,6 +465,7 @@
 | [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0125-valid-palindrome) |
 | [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0151-reverse-words-in-a-string) |
@@ -1362,6 +1363,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0091-decode-ways](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0091-decode-ways) |
 | [0110-balanced-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0110-balanced-binary-tree) |
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
