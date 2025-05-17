@@ -552,6 +552,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0198-house-robber) |
@@ -1226,6 +1227,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0139-word-break) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
 | [0226-invert-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
