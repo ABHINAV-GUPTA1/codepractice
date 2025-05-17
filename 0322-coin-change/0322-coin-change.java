@@ -1,32 +1,85 @@
 class Solution {
-    int[][] dp;
+    /**
+        Method 3 : Space optimized
+     */
     public int coinChange(int[] coins, int amount) {
-        dp = new int[coins.length+1][amount+1];
-        for (int i = 0; i <= coins.length; i++) {
-            Arrays.fill(dp[i], -1);
+        int[] prev = new int[amount + 1];
+        int[] curr = new int[amount + 1];
+        for (int amt = 0; amt <= amount; amt++) {
+            if (amt%coins[0] == 0) {
+                prev[amt] = amt / coins[0];
+            } else {
+                prev[amt] = MAX;
+            }
         }
-        int ans = f(coins.length-1, amount, coins);
-        return ans == (int)1e9 ? -1 : ans;
-    }
-    int f(int idx, int target, int[] arr) {
-        if (idx == 0) {
-            return target%arr[idx] == 0 ? target/arr[idx] : (int)1e9;
-        }
-        if (target < 0) {
-            return (int)1e9;
-        }
-        if (target == 0) {
-            return 0;
-        }
-        if (dp[idx][target] != -1) {
-            return dp[idx][target];
-        }
-        int ntake = f(idx-1, target, arr);
-        int take = (int)1e9;
-        if (target-arr[idx] >= 0) {
-            take = 1 + f(idx, target-arr[idx], arr);
+        for (int idx = 1; idx < coins.length; idx++) {
+            
+            for (int amt = 0; amt <= amount; amt++) {
+                int ntake = prev[amt];
+                int take = MAX;
+                if (amt >= coins[idx]) {
+                    take = 1 + curr[amt - coins[idx]];
+                }
+
+                curr[amt] = Math.min(ntake, take);
+            }
+            prev = Arrays.copyOf(curr, curr.length);
+
         }
 
-        return dp[idx][target] = Math.min(take, ntake);
+        return prev[amount] >= MAX ? -1 : prev[amount];
+    }
+
+    /**
+        Method 2 : DP
+     */
+    public int coinChange_method2(int[] coins, int amount) {
+        int[][] dp = new int[coins.length + 1][amount + 1];
+        for (int amt = 0; amt <= amount; amt++) {
+            if (amt%coins[0] == 0) {
+                dp[0][amt] = amt / coins[0];
+            } else {
+                dp[0][amt] = MAX;
+            }
+        }
+        for (int idx = 1; idx < coins.length; idx++) {
+            for (int amt = 0; amt <= amount; amt++) {
+                int ntake = dp[idx - 1][amt];
+                int take = MAX;
+                if (amt >= coins[idx]) {
+                    take = 1 + dp[idx][amt - coins[idx]];
+                }
+
+                dp[idx][amt] = Math.min(ntake, take);
+            }
+        }
+
+        return dp[coins.length - 1][amount] >= MAX ? -1 : dp[coins.length - 1][amount];
+    }
+
+    /**
+        Method 1 : recursion
+     */
+    private static int MAX = (int) 1e9;
+    public int coinChange_method1(int[] coins, int amount) {
+        int ans = f(coins, amount, coins.length - 1);
+        return ans == MAX ? -1 : ans;
+    }
+
+    private int f(int[] arr, int amt, int idx) {
+        if (idx == 0) {
+            if (amt%arr[0] == 0) {
+                return amt / arr[0];
+            }
+            return MAX;
+        }
+        
+        int ntake = f(arr, amt, idx - 1);
+        int take = MAX;
+        if (amt >= arr[idx]) {
+            take = 1 + f(arr, amt - arr[idx], idx);
+        }
+
+        return Math.min(ntake, take);
     }
 }
