@@ -3,8 +3,6 @@ class Solution {
         Method 3 : space optimised
      */
     public int uniquePaths(int m, int n) {
-        int[][] dp = new int[m][n];
-        dp[0][0] = 1;
         int[] curr = new int[n];
         int[] prev = new int[n];
         prev[0] = 1;
