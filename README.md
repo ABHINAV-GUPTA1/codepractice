@@ -575,6 +575,7 @@
 | [0435-non-overlapping-intervals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0435-non-overlapping-intervals) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0518-coin-change-ii) |
 | [0650-2-keys-keyboard](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0650-2-keys-keyboard) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
