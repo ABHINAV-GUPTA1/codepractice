@@ -486,6 +486,7 @@
 | [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0516-longest-palindromic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0556-next-greater-element-iii) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0592-fraction-addition-and-subtraction) |
@@ -1379,6 +1380,7 @@
 | [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0516-longest-palindromic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1216-print-zero-even-odd](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1216-print-zero-even-odd) |
