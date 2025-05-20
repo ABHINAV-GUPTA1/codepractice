@@ -3,7 +3,6 @@ class Solution {
         Queue<Integer> q = new LinkedList<>();
         q.offer(start);
         boolean[] vis = new boolean[arr.length + 1];
-
         while (!q.isEmpty()) {
             int k = q.poll();
             int val = arr[k];
