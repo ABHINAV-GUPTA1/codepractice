@@ -141,6 +141,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1428-jump-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1428-jump-game-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -341,6 +342,7 @@
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [1300-critical-connections-in-a-network](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1300-critical-connections-in-a-network) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1428-jump-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1428-jump-game-iii) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
@@ -1388,5 +1390,6 @@
 | [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1216-print-zero-even-odd](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1216-print-zero-even-odd) |
+| [1428-jump-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1428-jump-game-iii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
