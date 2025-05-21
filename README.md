@@ -163,6 +163,7 @@
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
@@ -604,6 +605,7 @@
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
+| [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2262-solving-questions-with-brainpower) |
@@ -1091,6 +1093,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
+| [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
@@ -1146,6 +1149,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0859-design-circular-deque](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0859-design-circular-deque) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -1228,6 +1232,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0954-maximum-sum-circular-subarray) |
+| [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Trie
