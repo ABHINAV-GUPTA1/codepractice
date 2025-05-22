@@ -6,19 +6,19 @@ class Solution {
         q.offer(0);
         int n = s.length();
         while (!q.isEmpty()) {
-            int qval = q.poll();
-            int start = Math.max(qval + minJump, farthest + 1);
-            int end = Math.min(qval + maxJump + 1, n);
-            farthest = qval + maxJump;
-            for (; start < end; start++) {
+            int val = q.poll();
+            int end = Math.min(val + maxJump + 1, n);
+            for (int start = Math.max(val + minJump, farthest + 1); start < end; start++) {
                 if (s.charAt(start) == '0') {
                     q.offer(start);
                     if (start == n - 1) {
                         return true;
                     }
                 }
-            } 
-        } 
+            }
+            farthest = val + maxJump;
+        }
+
         return false;
     }
 
