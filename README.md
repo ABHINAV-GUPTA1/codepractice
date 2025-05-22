@@ -524,6 +524,7 @@
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -880,6 +881,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -1403,5 +1405,6 @@
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1216-print-zero-even-odd](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1216-print-zero-even-odd) |
 | [1428-jump-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1428-jump-game-iii) |
+| [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
