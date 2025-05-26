@@ -96,6 +96,7 @@
 | [0518-coin-change-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0624-maximum-distance-in-arrays) |
 | [0692-top-k-frequent-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0692-top-k-frequent-words) |
@@ -898,6 +899,7 @@
 | [0238-product-of-array-except-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0912-random-pick-with-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0912-random-pick-with-weight) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
@@ -951,6 +953,7 @@
 | [0460-lfu-cache](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0692-top-k-frequent-words) |
