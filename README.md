@@ -97,6 +97,7 @@
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0560-subarray-sum-equals-k) |
+| [0575-distribute-candies](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0624-maximum-distance-in-arrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0624-maximum-distance-in-arrays) |
 | [0692-top-k-frequent-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0692-top-k-frequent-words) |
@@ -955,6 +956,7 @@
 | [0525-contiguous-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
+| [0575-distribute-candies](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0575-distribute-candies) |
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0692-top-k-frequent-words) |
 | [0726-number-of-atoms](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0726-number-of-atoms) |
