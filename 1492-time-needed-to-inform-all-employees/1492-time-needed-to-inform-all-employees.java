@@ -22,7 +22,6 @@ class Solution {
             int u = arr[0];
             int time = arr[1];
             res = Math.max(res, time);
-            System.out.println(u);
             for (int v : adj[u]) {
                 q.offer(new int[]{v, time + informTime[u]});
             }
