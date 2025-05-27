@@ -1,44 +1,27 @@
-//{ Driver Code Starts
-// Initial Template for Java
-
-import java.io.*;
-import java.util.*;
-
-class GfG {
-    public static void main(String args[]) throws IOException {
-        BufferedReader read = new BufferedReader(new InputStreamReader(System.in));
-        int t = Integer.parseInt(read.readLine());
-
-        while (t-- > 0) {
-            String inputLine[] = read.readLine().trim().split(" ");
-            int n = inputLine.length;
-            int arr[] = new int[n];
-
-            for (int i = 0; i < n; i++) {
-                arr[i] = Integer.parseInt(inputLine[i]);
-            }
-            int sum = Integer.parseInt(read.readLine());
-            Solution ob = new Solution();
-            System.out.println(ob.count(arr, sum));
-            System.out.println("~");
-        }
-    }
-}
-
-// } Driver Code Ends
-
-
 class Solution {
+    Integer[][] dp;
     public int count(int coins[], int sum) {
-        // code here.
-        long table[] = new long[sum+1];
-        Arrays.fill(table, 0);
-        table[0] = 1;
-        for (int i = 0; i < coins.length; i++) {
-            for (int j = coins[i]; j <= sum; j++) {
-                table[j] += table[j - coins[i]]; 
+        dp = new Integer[coins.length + 1][sum + 1];
+        int ans = f(coins, coins.length - 1, sum);
+        return ans;
+    }
+    
+    private int f(int[] arr, int idx, int target) {
+        if (idx == 0) {
+            if (target%arr[idx] == 0) {
+                return 1;
             }
+            return 0;
         }
-        return (int)table[sum];
+        if (dp[idx][target] != null) {
+            return dp[idx][target];
+        }
+        int ntake = f(arr, idx - 1, target);
+        int take = 0;
+        if (arr[idx] <= target) {
+            take = f(arr, idx, target - arr[idx]);
+        }
+        
+        return dp[idx][target] = take + ntake;
     }
 }
