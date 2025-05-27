@@ -354,6 +354,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1484-linked-list-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
@@ -691,6 +692,7 @@
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1653-number-of-good-leaf-nodes-pairs) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
