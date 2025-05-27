@@ -376,6 +376,7 @@
 | [0895-shortest-path-to-get-all-keys](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1428-jump-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1428-jump-game-iii) |
 | [1447-jump-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1447-jump-game-iv) |
+| [1492-time-needed-to-inform-all-employees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1492-time-needed-to-inform-all-employees) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2171-second-minimum-time-to-reach-destination) |
