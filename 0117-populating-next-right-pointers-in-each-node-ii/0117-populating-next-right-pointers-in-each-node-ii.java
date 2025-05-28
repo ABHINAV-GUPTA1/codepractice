@@ -23,32 +23,25 @@ class Node {
 
 class Solution {
     public Node connect(Node root) {
-        if (root == null) {
-            return root;
-        }
         Node node = root;
-        Node dummy;
         Node tmp;
-        Node tdummy;
 
         while (node != null) {
-            tmp = node;
-            dummy = new Node(-1);
-            tdummy = dummy;
-            while (tmp != null) {
-                if (tmp.left != null) {
-                    dummy.next = tmp.left;
+            Node dummy = new Node(-1);
+            Node tDummy = dummy;
+            while (node != null) {
+                if (node.left != null) {
+                    dummy.next = node.left;
                     dummy = dummy.next;
                 }
-                if (tmp.right != null) {
-                    dummy.next = tmp.right;
+                if (node.right != null) {
+                    dummy.next = node.right;
                     dummy = dummy.next;
                 }
-                tmp = tmp.next;
+                node = node.next;
             }
-            node = tdummy.next;
+            node = tDummy.next;
         }
-
         return root;
     }
 }
