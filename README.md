@@ -571,6 +571,7 @@
 | [0063-unique-paths-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -662,6 +663,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0100-same-tree) |
@@ -783,6 +785,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0015-3sum) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -1188,6 +1191,7 @@
 | [0047-permutations-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0140-word-break-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0216-combination-sum-iii) |
