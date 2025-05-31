@@ -85,6 +85,7 @@
 | [0368-largest-divisible-subset](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0368-largest-divisible-subset) |
 | [0377-combination-sum-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0377-combination-sum-iv) |
 | [0380-insert-delete-getrandom-o1](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0403-frog-jump](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0416-partition-equal-subset-sum) |
@@ -333,6 +334,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
 | [0337-house-robber-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0337-house-robber-iii) |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
@@ -389,6 +391,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0869-similar-string-groups](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0869-similar-string-groups) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
@@ -504,6 +507,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0415-add-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1084,6 +1088,7 @@
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0863-sum-of-distances-in-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0863-sum-of-distances-in-tree) |
@@ -1136,6 +1141,7 @@
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0399-evaluate-division) |
 | [0744-network-delay-time](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0803-cheapest-flights-within-k-stops) |
