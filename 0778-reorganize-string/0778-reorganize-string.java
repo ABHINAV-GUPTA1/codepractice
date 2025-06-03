@@ -22,14 +22,14 @@ class Solution {
             idx += 2;
             map[letter - 'a']--;
         }
-        for (int i = 0; i < s.length(); i++) {
-            while (map[s.charAt(i) - 'a'] != 0) {
+        for (int i = 0; i < 26; i++) {
+            while (map[i] != 0) {
                 if (idx >= s.length()) {
                     idx = 1;
                 }
-                res[idx] = s.charAt(i);
+                res[idx] =  (char) (i + 'a');
                 idx += 2;
-                map[s.charAt(i) - 'a']--;
+                map[i]--;
             }
         }
 
