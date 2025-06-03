@@ -196,6 +196,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2411-spiral-matrix-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2465-shifting-letters-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2465-shifting-letters-ii) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2472-build-a-matrix-with-conditions) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
@@ -468,6 +469,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2502-sort-the-people](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2502-sort-the-people) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
@@ -897,6 +899,7 @@
 | [2154-minimum-moves-to-convert-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2154-minimum-moves-to-convert-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
 | [2591-frog-jump-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2591-frog-jump-ii) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -1015,6 +1018,7 @@
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
@@ -1146,6 +1150,7 @@
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2549-next-greater-element-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2549-next-greater-element-iv) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -1244,6 +1249,7 @@
 | [2155-find-missing-observations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2155-find-missing-observations) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2479-meeting-rooms-iii) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
