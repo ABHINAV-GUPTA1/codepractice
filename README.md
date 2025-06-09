@@ -510,6 +510,7 @@
 | [0242-valid-anagram](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0273-integer-to-english-words) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0299-bulls-and-cows](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0299-bulls-and-cows) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0392-is-subsequence) |
@@ -977,6 +978,7 @@
 | [0242-valid-anagram](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0242-valid-anagram) |
 | [0264-ugly-number-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0268-missing-number) |
+| [0299-bulls-and-cows](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0355-design-twitter](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0355-design-twitter) |
@@ -1457,6 +1459,7 @@
 | [0207-course-schedule](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0210-course-schedule-ii) |
 | [0229-majority-element-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0229-majority-element-ii) |
+| [0299-bulls-and-cows](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0299-bulls-and-cows) |
 | [0417-pacific-atlantic-water-flow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0516-longest-palindromic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0516-longest-palindromic-subsequence) |
 | [0543-diameter-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0543-diameter-of-binary-tree) |
