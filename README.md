@@ -151,6 +151,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
 | [1447-jump-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1466-jump-game-v) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
@@ -459,6 +460,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1466-jump-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1466-jump-game-v) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -888,6 +890,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1149,6 +1152,7 @@
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1127-last-stone-weight](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1127-last-stone-weight) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
