@@ -802,6 +802,7 @@
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -871,6 +872,7 @@
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -1095,6 +1097,7 @@
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## String Matching
 |  |
 | ------- |
