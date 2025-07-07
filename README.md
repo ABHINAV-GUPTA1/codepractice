@@ -576,6 +576,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3617-find-the-original-typed-string-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3617-find-the-original-typed-string-i) |
 ## Dynamic Programming
 |  |
 | ------- |
