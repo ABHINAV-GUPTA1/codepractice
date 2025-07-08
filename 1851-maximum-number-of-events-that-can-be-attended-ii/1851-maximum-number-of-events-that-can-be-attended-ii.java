@@ -1,21 +1,18 @@
 class Solution {
-    
-    Integer[][] dp;
-
     public int maxValue(int[][] events, int k) {
-        dp = new Integer[events.length][k + 1];
+        int[][] dp = new int[events.length][k + 1];
         Arrays.sort(events, (a, b)->a[0]-b[0]);
-        return solve(events, 0, k);    
+        return solve(events, 0, k, dp);    
     }
 
-    private int solve(int[][] arr, int idx, int k) {
+    private int solve(int[][] arr, int idx, int k, int[][] dp) {
         if (idx >= arr.length || k == 0) {
             return 0;
         }
-        if (dp[idx][k] != null) {
+        if (dp[idx][k] != 0) {
             return dp[idx][k];
         }
-        int ntake = solve(arr, idx + 1, k);
+        int ntake = solve(arr, idx + 1, k, dp);
         // int take = arr[idx][2];
         // for (int j = idx + 1; j < arr.length; j++) {
         //     if (arr[j][0] > arr[idx][1]) {
@@ -25,7 +22,7 @@ class Solution {
         // }
 
         int takeIdx = binarySearchUpperBound(arr, idx + 1, arr[idx][1] + 1);
-        int take = arr[idx][2] + solve(arr, takeIdx, k - 1);
+        int take = arr[idx][2] + solve(arr, takeIdx, k - 1, dp);
         return dp[idx][k] = Math.max(take, ntake);
 
     }
