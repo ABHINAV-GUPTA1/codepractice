@@ -171,6 +171,7 @@
 | [1720-crawler-log-folder](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1720-crawler-log-folder) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1813-maximum-erasure-value) |
 | [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -934,6 +935,7 @@
 | [0567-permutation-in-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0713-subarray-product-less-than-k) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1034-subarrays-with-k-different-integers) |
+| [1813-maximum-erasure-value](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1813-maximum-erasure-value) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1029,6 +1031,7 @@
 | [1741-sort-array-by-increasing-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1813-maximum-erasure-value](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
