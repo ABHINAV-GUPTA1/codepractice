@@ -190,6 +190,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2249-count-the-hidden-sequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2249-count-the-hidden-sequences) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -1110,6 +1111,7 @@
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
@@ -1256,6 +1258,7 @@
 | [0494-target-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0494-target-sum) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Simulation
 |  |
@@ -1472,6 +1475,7 @@
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
 ## Concurrency
 |  |
