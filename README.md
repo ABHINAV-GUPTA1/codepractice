@@ -236,6 +236,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -316,6 +317,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2690-house-robber-iv) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -1289,6 +1291,7 @@
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -1372,6 +1375,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -1383,6 +1387,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
 | ------- |
