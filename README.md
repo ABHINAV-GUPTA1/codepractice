@@ -131,6 +131,7 @@
 | [0983-validate-stack-sequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0983-validate-stack-sequences) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
 | [1002-maximum-width-ramp](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1002-maximum-width-ramp) |
+| [1006-vowel-spellchecker](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1032-satisfiability-of-equality-equations) |
@@ -549,6 +550,7 @@
 | [0952-word-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1006-vowel-spellchecker](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 | [1032-satisfiability-of-equality-equations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1032-satisfiability-of-equality-equations) |
 | [1250-longest-common-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1250-longest-common-subsequence) |
@@ -1026,6 +1028,7 @@
 | [0952-word-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0952-word-subsets) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0999-regions-cut-by-slashes](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0999-regions-cut-by-slashes) |
+| [1006-vowel-spellchecker](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1006-vowel-spellchecker) |
 | [1023-time-based-key-value-store](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1023-time-based-key-value-store) |
 | [1034-subarrays-with-k-different-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1034-subarrays-with-k-different-integers) |
 | [1087-longest-arithmetic-subsequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1087-longest-arithmetic-subsequence) |
