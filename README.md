@@ -143,6 +143,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1293-three-consecutive-odds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1293-three-consecutive-odds) |
+| [1306-minimum-absolute-difference](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1306-minimum-absolute-difference) |
 | [1325-path-with-maximum-probability](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1325-path-with-maximum-probability) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -471,6 +472,7 @@
 | [0948-sort-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1014-k-closest-points-to-origin) |
 | [1019-squares-of-a-sorted-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1019-squares-of-a-sorted-array) |
+| [1306-minimum-absolute-difference](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1306-minimum-absolute-difference) |
 | [1466-jump-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
