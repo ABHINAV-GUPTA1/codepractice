@@ -1,12 +1,22 @@
 class Solution {
-    char val = (char)255;
+
     public char nextGreatestLetter(char[] letters, char target) {
-        char res = val;
-        for (char c : letters) {
-            if (c > target && res > c) {
-                res = c;
-            }
+        int left = 0;
+        int right = letters.length - 1;
+
+        if (target >= letters[right]) {
+            return  letters[left];
         }
-        return res == val ? letters[0] : res;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+            if (letters[mid] > target) {
+                right = mid - 1;
+            } else {
+                left = mid + 1;
+            }
+        }    
+        
+        return letters[left];
     }
 }
