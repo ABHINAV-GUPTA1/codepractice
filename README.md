@@ -569,6 +569,7 @@
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -923,6 +924,7 @@
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
