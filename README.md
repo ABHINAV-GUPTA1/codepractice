@@ -241,6 +241,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
+| [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -499,6 +500,7 @@
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
+| [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -1073,6 +1075,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
 | ------- |
