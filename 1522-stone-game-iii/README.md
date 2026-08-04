@@ -45,3 +45,10 @@ Remember that both play optimally so here Alice will choose the scenario that ma
 	<li><code>1 &lt;= stoneValue.length &lt;= 5 * 10<sup>4</sup></code></li>
 	<li><code>-1000 &lt;= stoneValue[i] &lt;= 1000</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 4 ms (97.74%), Space: 82.6 MB (92.71%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii/1522-stone-game-iii_Solution_2026-08-04_22-41-50.java) |
+<!---LeetCode Solutions End-->
