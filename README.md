@@ -159,6 +159,7 @@
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1524-string-matching-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
@@ -658,6 +659,7 @@
 | [1466-jump-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1466-jump-game-v) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
 | [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -813,6 +815,7 @@
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1446-angle-between-hands-of-a-clock](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1446-angle-between-hands-of-a-clock) |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -1246,6 +1249,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0387-first-unique-character-in-a-string) |
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 ## Queue
 |  |
 | ------- |
@@ -1522,4 +1526,12 @@
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Minimax
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 <!---LeetCode Topics End-->
