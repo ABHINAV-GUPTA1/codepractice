@@ -385,6 +385,7 @@
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1534,4 +1535,9 @@
 |  |
 | ------- |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
+| [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 <!---LeetCode Topics End-->
