@@ -70,4 +70,5 @@
 | ------- |
 | [Time: N/A (0%), Space: N/A (0%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project/3561-remove-methods-from-project_Solution_2026-08-05_22-05-55.java) |
 | [Time: 66 ms (67.31%), Space: 282.6 MB (64.42%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project/3561-remove-methods-from-project_Solution_2026-08-05_22-07-15.java) |
+| [Time: 66 ms (67.31%), Space: 282.6 MB (64.42%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project/3561-remove-methods-from-project_Solution_2026-08-05_22-07-40.java) |
 <!---LeetCode Solutions End-->
