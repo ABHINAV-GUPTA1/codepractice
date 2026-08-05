@@ -63,3 +63,10 @@
 	<li><code>a<sub>i</sub> != b<sub>i</sub></code></li>
 	<li><code>invocations[i] != invocations[j]</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: N/A (0%), Space: N/A (0%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project/3561-remove-methods-from-project_Solution_2026-08-05_22-05-55.java) |
+<!---LeetCode Solutions End-->
