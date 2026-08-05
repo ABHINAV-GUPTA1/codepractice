@@ -408,6 +408,7 @@
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2171-second-minimum-time-to-reach-destination) |
+| [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 ## Union Find
 |  |
 | ------- |
