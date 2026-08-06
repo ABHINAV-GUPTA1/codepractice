@@ -38,4 +38,5 @@
 |  |
 | ------- |
 | [Time: N/A (0%), Space: N/A (0%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i/3626-smallest-divisible-digit-product-i_Solution_2026-08-06_21-57-51.java) |
+| [Time: N/A (0%), Space: N/A (0%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i/3626-smallest-divisible-digit-product-i_Solution_2026-08-06_22-02-30.java) |
 <!---LeetCode Solutions End-->
