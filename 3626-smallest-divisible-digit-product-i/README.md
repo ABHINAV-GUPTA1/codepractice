@@ -32,3 +32,10 @@
 	<li><code>1 &lt;= n &lt;= 100</code></li>
 	<li><code>1 &lt;= t &lt;= 10</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (100%), Space: 42.5 MB (82.31%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i/3626-smallest-divisible-digit-product-i_Solution_2026-08-07_22-16-47.java) |
+<!---LeetCode Solutions End-->
