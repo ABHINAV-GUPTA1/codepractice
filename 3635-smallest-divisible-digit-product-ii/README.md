@@ -50,3 +50,10 @@
 	<li><code>num</code> does not contain leading zeros.</li>
 	<li><code>1 &lt;= t &lt;= 10<sup>14</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 83 ms (31.43%), Space: 48.9 MB (54.29%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii/3635-smallest-divisible-digit-product-ii_Solution_2026-08-07_22-08-42.java) |
+<!---LeetCode Solutions End-->
