@@ -40,3 +40,10 @@
 	<li><code>s</code> contains only lowercase English letters.</li>
 	<li><code>p</code> contains only lowercase English letters, <code>&#39;?&#39;</code> or <code>&#39;*&#39;</code>.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 48 ms (34.5%), Space: 47.1 MB (68.47%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching/0044-wildcard-matching_Solution_2026-08-08_22-32-28.java) |
+<!---LeetCode Solutions End-->
