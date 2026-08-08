@@ -516,6 +516,7 @@
 | [0020-valid-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0068-text-justification) |
@@ -899,6 +900,7 @@
 | [0002-add-two-numbers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0060-permutation-sequence) |
 | [0143-reorder-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0143-reorder-list) |
@@ -915,6 +917,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -1550,6 +1553,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
 | [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
