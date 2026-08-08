@@ -274,6 +274,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -601,6 +602,7 @@
 | [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3617-find-the-original-typed-string-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Dynamic Programming
@@ -950,6 +952,7 @@
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
@@ -1548,4 +1551,5 @@
 |  |
 | ------- |
 | [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
+| [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
