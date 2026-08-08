@@ -77,3 +77,10 @@
 	<li><code>1 &lt;= word2.length &lt; word1.length &lt;= 3 * 10<sup>5</sup></code></li>
 	<li><code>word1</code> and <code>word2</code> consist only of lowercase English letters.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 36 ms (69.44%), Space: 137.8 MB (22.22%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence/3584-find-the-lexicographically-smallest-valid-sequence_Solution_2026-08-08_22-19-02.java) |
+<!---LeetCode Solutions End-->
