@@ -42,3 +42,10 @@ The binary representation of [0,1,3,2] is [00,01,11,10].
 <ul>
 	<li><code>1 &lt;= n &lt;= 16</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 6 ms (16.39%), Space: 53.8 MB (23.78%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0089-gray-code/0089-gray-code_Solution_2026-08-09_21-35-23.java) |
+<!---LeetCode Solutions End-->
