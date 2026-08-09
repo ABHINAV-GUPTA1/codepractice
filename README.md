@@ -1544,6 +1544,7 @@
 ## Minimax
 |  |
 | ------- |
+| [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -1554,6 +1555,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
+| [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
