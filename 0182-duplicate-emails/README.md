@@ -40,3 +40,10 @@ Person table:
 +---------+
 <strong>Explanation:</strong> a@b.com is repeated two times.
 </pre>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1034 ms (5.01%), Space: 0B (100%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0182-duplicate-emails/0182-duplicate-emails_Solution_2026-08-09_21-41-10.sql) |
+<!---LeetCode Solutions End-->
