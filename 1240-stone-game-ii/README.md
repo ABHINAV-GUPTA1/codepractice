@@ -41,3 +41,10 @@
 	<li><code>1 &lt;= piles.length &lt;= 100</code></li>
 	<li><code>1 &lt;= piles[i]&nbsp;&lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 2 ms (100%), Space: 44.5 MB (59.83%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii/1240-stone-game-ii_Solution_2026-08-09_21-22-33.java) |
+<!---LeetCode Solutions End-->
