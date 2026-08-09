@@ -43,3 +43,10 @@ Employee table:
 +----------+
 <strong>Explanation:</strong> Joe is the only employee who earns more than his manager.
 </pre>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 498 ms (18.6%), Space: 0B (100%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0181-employees-earning-more-than-their-managers/0181-employees-earning-more-than-their-managers_Solution_2026-08-09_21-38-35.sql) |
+<!---LeetCode Solutions End-->
