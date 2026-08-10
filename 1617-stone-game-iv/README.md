@@ -42,4 +42,5 @@
 |  |
 | ------- |
 | [Time: 38 ms (48.82%), Space: 51.1 MB (26.11%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv/1617-stone-game-iv_Solution_2026-08-10_23-11-53.java) |
+| [Time: 38 ms (48.82%), Space: 51.1 MB (26.11%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv/1617-stone-game-iv_Solution_2026-08-10_23-12-02.java) |
 <!---LeetCode Solutions End-->
