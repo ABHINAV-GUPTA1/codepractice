@@ -36,3 +36,10 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 38 ms (48.82%), Space: 51.1 MB (26.11%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv/1617-stone-game-iv_Solution_2026-08-10_23-11-53.java) |
+<!---LeetCode Solutions End-->
