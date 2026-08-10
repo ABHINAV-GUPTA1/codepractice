@@ -667,6 +667,7 @@
 | [1511-count-number-of-teams](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1511-count-number-of-teams) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
@@ -824,6 +825,7 @@
 | [1446-angle-between-hands-of-a-clock](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1446-angle-between-hands-of-a-clock) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -1264,6 +1266,7 @@
 | [0486-predict-the-winner](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0486-predict-the-winner) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 ## Queue
 |  |
 | ------- |
@@ -1551,6 +1554,7 @@
 | ------- |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1561,6 +1565,15 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0044-wildcard-matching) |
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [3561-remove-methods-from-project](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3561-remove-methods-from-project) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+## Nim Game
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 <!---LeetCode Topics End-->
