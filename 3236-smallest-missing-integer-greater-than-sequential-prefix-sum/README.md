@@ -28,3 +28,10 @@
 	<li><code>1 &lt;= nums.length &lt;= 50</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 50</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (93.72%), Space: 44.2 MB (50.35%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum/3236-smallest-missing-integer-greater-than-sequential-prefix-sum_Solution_2026-08-11_21-30-30.java) |
+<!---LeetCode Solutions End-->
