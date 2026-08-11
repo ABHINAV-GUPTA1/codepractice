@@ -232,6 +232,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
@@ -502,6 +503,7 @@
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2846-robot-collisions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2846-robot-collisions) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
 | [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
@@ -1088,6 +1090,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
+| [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
