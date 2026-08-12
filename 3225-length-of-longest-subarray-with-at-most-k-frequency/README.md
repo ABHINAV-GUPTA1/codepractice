@@ -44,3 +44,10 @@ It can be shown that there are no good subarrays with length more than 4.
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 71 ms (36.65%), Space: 87.4 MB (97.15%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency/3225-length-of-longest-subarray-with-at-most-k-frequency_Solution_2026-08-12_20-55-15.java) |
+<!---LeetCode Solutions End-->
