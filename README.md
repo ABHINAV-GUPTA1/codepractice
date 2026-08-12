@@ -232,6 +232,7 @@
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -984,6 +985,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -1090,6 +1092,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2679-count-distinct-numbers-on-board](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2679-count-distinct-numbers-on-board) |
+| [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3236-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3236-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
