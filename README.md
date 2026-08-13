@@ -204,6 +204,7 @@
 | [2306-create-binary-tree-from-descriptions](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2411-spiral-matrix-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2411-spiral-matrix-iv) |
@@ -593,6 +594,7 @@
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
 | [2465-shifting-letters-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2465-shifting-letters-ii) |
 | [2487-optimal-partition-of-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2487-optimal-partition-of-string) |
@@ -1423,6 +1425,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
@@ -1435,6 +1438,7 @@
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0220-contains-duplicate-iii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [2319-longest-substring-of-one-repeating-character](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2319-longest-substring-of-one-repeating-character) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Topological Sort
 |  |
