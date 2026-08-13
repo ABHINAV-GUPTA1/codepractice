@@ -40,3 +40,10 @@ Thus, we return [2,3].
 	<li><code>queryCharacters</code> consists of lowercase English letters.</li>
 	<li><code>0 &lt;= queryIndices[i] &lt; s.length</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 112 ms (42.19%), Space: 157.3 MB (14.06%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2319-longest-substring-of-one-repeating-character/2319-longest-substring-of-one-repeating-character_Solution_2026-08-13_21-12-44.java) |
+<!---LeetCode Solutions End-->
