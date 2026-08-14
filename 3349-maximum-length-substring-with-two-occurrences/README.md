@@ -27,3 +27,10 @@ The following substring has a length of 2 and contains at most two occurrences o
 	<li><code>2 &lt;= s.length &lt;= 100</code></li>
 	<li><code>s</code> consists only of lowercase English letters.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (100%), Space: 43.6 MB (59.89%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3349-maximum-length-substring-with-two-occurrences/3349-maximum-length-substring-with-two-occurrences_Solution_2026-08-14_22-29-09.java) |
+<!---LeetCode Solutions End-->
