@@ -34,3 +34,10 @@
 	<li><code>1 &lt;= nums.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>0 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 2 ms (68.38%), Space: 133.3 MB (88.24%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor/4033-longest-subsequence-with-non-zero-bitwise-xor_Solution_2026-08-15_22-21-58.java) |
+<!---LeetCode Solutions End-->
