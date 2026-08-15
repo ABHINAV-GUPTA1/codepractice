@@ -245,6 +245,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -1165,6 +1166,7 @@
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
+| [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 ## String Matching
 |  |
 | ------- |
