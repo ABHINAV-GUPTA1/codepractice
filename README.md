@@ -193,6 +193,7 @@
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2155-find-missing-observations) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -838,6 +839,7 @@
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2155-find-missing-observations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2155-find-missing-observations) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2288-count-operations-to-obtain-zero) |
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2645-pass-the-pillow](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2645-pass-the-pillow) |
@@ -956,6 +958,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2154-minimum-moves-to-convert-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2154-minimum-moves-to-convert-string) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2300-construct-string-with-repeat-limit](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2300-construct-string-with-repeat-limit) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -1113,6 +1116,7 @@
 | [0621-task-scheduler](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0621-task-scheduler) |
 | [0778-reorganize-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0778-reorganize-string) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Divide and Conquer
@@ -1280,6 +1284,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Queue
 |  |
 | ------- |
@@ -1570,6 +1575,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
@@ -1588,6 +1594,7 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
