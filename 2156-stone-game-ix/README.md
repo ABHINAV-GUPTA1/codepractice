@@ -46,3 +46,10 @@ Alice loses the game because the sum of the removed stones (15) is divisible by 
 	<li><code>1 &lt;= stones.length &lt;= 10<sup>5</sup></code></li>
 	<li><code>1 &lt;= stones[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 286 ms (6.08%), Space: 114.6 MB (94.59%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix/2156-stone-game-ix_Solution_2026-08-16_11-58-34.java) |
+<!---LeetCode Solutions End-->
