@@ -168,6 +168,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1646-kth-missing-positive-number) |
+| [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1706-min-cost-to-connect-all-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1706-min-cost-to-connect-all-points) |
@@ -676,6 +677,7 @@
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1583-paint-house-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1583-paint-house-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
 | [1814-jump-game-vi](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1814-jump-game-vi) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
@@ -835,6 +837,7 @@
 | [1585-the-kth-factor-of-n](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1585-the-kth-factor-of-n) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [1642-water-bottles](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1642-water-bottles) |
+| [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
@@ -1284,6 +1287,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
 | [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Queue
 |  |
