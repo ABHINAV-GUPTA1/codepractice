@@ -38,3 +38,10 @@ The last round Alice has only one choice to divide the row which is [2], [3]. Bo
 	<li><code>1 &lt;= stoneValue.length &lt;= 500</code></li>
 	<li><code>1 &lt;= stoneValue[i] &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 56 ms (94.47%), Space: 48.7 MB (22.84%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v/1685-stone-game-v_Solution_2026-08-17_20-44-32.java) |
+<!---LeetCode Solutions End-->
