@@ -246,6 +246,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
 | [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
@@ -1111,6 +1112,7 @@
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3705-find-the-largest-almost-missing-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3705-find-the-largest-almost-missing-integer) |
 | [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## Counting
 |  |
