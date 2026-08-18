@@ -65,3 +65,10 @@ A <strong>subarray</strong> is a contiguous sequence of elements within an array
 	<li><code>0 &lt;= nums[i] &lt;= 50</code></li>
 	<li><code>1 &lt;= k &lt;= nums.length</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (99.3%), Space: 44.7 MB (74.74%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3705-find-the-largest-almost-missing-integer/3705-find-the-largest-almost-missing-integer_Solution_2026-08-18_22-42-29.java) |
+<!---LeetCode Solutions End-->
