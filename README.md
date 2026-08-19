@@ -155,6 +155,7 @@
 | [1447-jump-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1447-jump-game-iv) |
 | [1466-jump-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1466-jump-game-v) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1487-cinema-seat-allocation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1487-cinema-seat-allocation) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -951,6 +952,7 @@
 | [1252-break-a-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1252-break-a-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1285-balance-a-binary-search-tree) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1487-cinema-seat-allocation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1487-cinema-seat-allocation) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1695-maximum-sum-obtained-of-any-permutation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1695-maximum-sum-obtained-of-any-permutation) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -1081,6 +1083,7 @@
 | [1207-delete-nodes-and-return-forest](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1207-delete-nodes-and-return-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1447-jump-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1447-jump-game-iv) |
+| [1487-cinema-seat-allocation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1487-cinema-seat-allocation) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -1165,6 +1168,7 @@
 | [0476-number-complement](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0476-number-complement) |
 | [0895-shortest-path-to-get-all-keys](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0895-shortest-path-to-get-all-keys) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1435-xor-queries-of-a-subarray) |
+| [1487-cinema-seat-allocation](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1487-cinema-seat-allocation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
