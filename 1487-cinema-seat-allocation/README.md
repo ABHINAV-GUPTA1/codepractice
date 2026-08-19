@@ -52,3 +52,10 @@
 	<li><code>1 &lt;= seat<sub>i</sub> &lt;= 10</code></li>
 	<li>All <code>reservedSeats[i]</code> are distinct.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 20 ms (61.84%), Space: 53.2 MB (41.05%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1487-cinema-seat-allocation/1487-cinema-seat-allocation_Solution_2026-08-19_21-21-11.java) |
+<!---LeetCode Solutions End-->
