@@ -42,3 +42,10 @@ Hence, the array result formed by concatenation is [5,3,4,8].
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 	<li>All elements in <code>nums</code> are distinct.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (98.08%), Space: 46.8 MB (42.79%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3347-distribute-elements-into-two-arrays-i/3347-distribute-elements-into-two-arrays-i_Solution_2026-08-20_21-21-04.java) |
+<!---LeetCode Solutions End-->
