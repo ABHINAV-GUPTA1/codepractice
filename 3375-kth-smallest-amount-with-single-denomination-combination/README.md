@@ -71,3 +71,10 @@ All of the coins combined produce: 2, 4, 5, 6, 8, 10, <u><strong>12</strong></u>
 	<li><code>1 &lt;= k &lt;= 2 * 10<sup>9</sup></code></li>
 	<li><code>coins</code> contains pairwise distinct integers.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 10 ms (94.12%), Space: 44 MB (66.67%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination/3375-kth-smallest-amount-with-single-denomination-combination_Solution_2026-08-21_22-31-54.java) |
+<!---LeetCode Solutions End-->
