@@ -243,6 +243,7 @@
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
@@ -334,6 +335,7 @@
 | [2665-minimum-time-to-repair-cars](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2690-house-robber-iv) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3790-fruits-into-baskets-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3790-fruits-into-baskets-ii) |
 ## Depth-First Search
 |  |
@@ -854,6 +856,7 @@
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
@@ -1178,6 +1181,7 @@
 | [2308-divide-array-into-equal-pairs](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2594-count-pairs-of-similar-strings](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2594-count-pairs-of-similar-strings) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [4033-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4033-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -1501,6 +1505,7 @@
 | [2301-count-array-pairs-divisible-by-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2301-count-array-pairs-divisible-by-k) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
 ## Combinatorics
 |  |
@@ -1510,6 +1515,7 @@
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3375-kth-smallest-amount-with-single-denomination-combination](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3375-kth-smallest-amount-with-single-denomination-combination) |
 ## Strongly Connected Component
 |  |
 | ------- |
