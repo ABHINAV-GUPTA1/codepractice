@@ -42,3 +42,10 @@
 <ul>
 	<li><code>1 &lt;= n &lt;= 10<sup>6</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (25.54%), Space: 42.2 MB (91.23%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3918-check-divisibility-by-digit-sum-and-product/3918-check-divisibility-by-digit-sum-and-product_Solution_2026-08-22_17-42-49.java) |
+<!---LeetCode Solutions End-->
