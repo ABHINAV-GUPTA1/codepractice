@@ -862,6 +862,7 @@
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search Tree
 |  |
 | ------- |
