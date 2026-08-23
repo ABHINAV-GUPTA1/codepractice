@@ -56,3 +56,10 @@ Bob wins because 9 + 3 + 2 + 9 = 5 + 9 + 2 + 7.
 	<li><code>num.length</code> is <strong>even</strong>.</li>
 	<li><code>num</code> consists of only digits and <code>&#39;?&#39;</code>.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 7 ms (79.56%), Space: 46.6 MB (94.89%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2039-sum-game/2039-sum-game_Solution_2026-08-23_21-52-13.java) |
+<!---LeetCode Solutions End-->
