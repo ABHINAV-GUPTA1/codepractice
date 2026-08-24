@@ -188,6 +188,7 @@
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1977-minimum-interval-to-include-each-query](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1977-minimum-interval-to-include-each-query) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2012-process-tasks-using-servers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2012-process-tasks-using-servers) |
 | [2035-count-sub-islands](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2035-count-sub-islands) |
@@ -688,6 +689,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1881-closest-subsequence-sum](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1881-closest-subsequence-sum) |
 | [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2262-solving-questions-with-brainpower](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2262-solving-questions-with-brainpower) |
 | [2464-time-needed-to-rearrange-a-binary-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2464-time-needed-to-rearrange-a-binary-string) |
@@ -846,6 +848,7 @@
 | [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2039-sum-game) |
 | [2100-minimum-non-zero-product-of-the-array-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2100-minimum-non-zero-product-of-the-array-elements) |
 | [2155-find-missing-observations](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2155-find-missing-observations) |
@@ -1022,6 +1025,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2001-jump-game-vii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2001-jump-game-vii) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2249-count-the-hidden-sequences](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2249-count-the-hidden-sequences) |
@@ -1303,6 +1307,7 @@
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [1685-stone-game-v](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1685-stone-game-v) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2039-sum-game](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2039-sum-game) |
 | [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Queue
@@ -1598,6 +1603,7 @@
 | [1240-stone-game-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1240-stone-game-ii) |
 | [1522-stone-game-iii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1522-stone-game-iii) |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [2156-stone-game-ix](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2156-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1622,4 +1628,5 @@
 |  |
 | ------- |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
+| [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 <!---LeetCode Topics End-->
