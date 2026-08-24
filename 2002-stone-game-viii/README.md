@@ -58,3 +58,10 @@ The difference between their scores is (-22) - 0 = -22.
 	<li><code>2 &lt;= n &lt;= 10<sup>5</sup></code></li>
 	<li><code>-10<sup>4</sup> &lt;= stones[i] &lt;= 10<sup>4</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 4 ms (66.81%), Space: 86.9 MB (56.17%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii/2002-stone-game-viii_Solution_2026-08-23_22-40-39.java) |
+<!---LeetCode Solutions End-->
