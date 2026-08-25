@@ -35,3 +35,10 @@
 	<li><code>1 &lt;= nums[i] &lt;= 100</code></li>
 	<li><code>1 &lt;= k &lt;= 100</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 94 ms (5.78%), Space: 45.6 MB (15.51%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4080-smallest-missing-multiple-of-k/4080-smallest-missing-multiple-of-k_Solution_2026-08-25_21-38-29.java) |
+<!---LeetCode Solutions End-->
