@@ -58,3 +58,10 @@ The lexicographically smallest beautiful substring with length 2 is the substrin
 	<li><code>1 &lt;= s.length &lt;= 100</code></li>
 	<li><code>1 &lt;= k &lt;= s.length</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 18 ms (5.37%), Space: 47.4 MB (6.04%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string/3150-shortest-and-lexicographically-smallest-beautiful-string_Solution_2026-08-25_22-25-13.java) |
+<!---LeetCode Solutions End-->
