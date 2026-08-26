@@ -616,6 +616,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2727-number-of-senior-citizens](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2727-number-of-senior-citizens) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -1008,6 +1009,7 @@
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3150-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3150-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3196-apply-operations-to-maximize-frequency-score](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3196-apply-operations-to-maximize-frequency-score) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3225-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3225-length-of-longest-subarray-with-at-most-k-frequency) |
