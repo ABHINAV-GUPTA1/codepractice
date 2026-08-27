@@ -57,3 +57,10 @@
 	<li><code>1 &lt;= s.length == target.length &lt;= 300</code></li>
 	<li><code>s</code> and <code>target</code> consist of only lowercase English letters.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 7 ms (38.71%), Space: 47.1 MB (17.74%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target/4020-lexicographically-smallest-permutation-greater-than-target_Solution_2026-08-27_19-45-09.java) |
+<!---LeetCode Solutions End-->
