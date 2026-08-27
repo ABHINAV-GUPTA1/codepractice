@@ -624,6 +624,7 @@
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3617-find-the-original-typed-string-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -989,6 +990,7 @@
 | [3351-maximize-happiness-of-selected-children](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3351-maximize-happiness-of-selected-children) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1131,6 +1133,7 @@
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3705-find-the-largest-almost-missing-integer](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3705-find-the-largest-almost-missing-integer) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4107-find-missing-elements) |
 ## Counting
@@ -1578,6 +1581,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 ## Concurrency
 |  |
 | ------- |
@@ -1633,4 +1637,5 @@
 | ------- |
 | [1617-stone-game-iv](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/1617-stone-game-iv) |
 | [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
+| [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
