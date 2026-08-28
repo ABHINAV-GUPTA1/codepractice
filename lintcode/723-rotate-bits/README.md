@@ -1,51 +1,30 @@
-<h2><a href="https://www.lintcode.com/problem/723/solution">LintCode Rotate Bits</a></h2><h3>Medium</h3><p>Time: 224 ms | Space: 19.95 MB</p><hr><pre>Solution
-6
-Notes
-Discuss
-25
-Leaderboard
-Record
-ALL(6)
-C++(3)
-Java(2)
-Python 3(1)
-Create Solution
-Bo0lean
-Highlight
+<h2><a href="https://www.lintcode.com/problem/723/description">LintCode Rotate Bits</a></h2><h3>Medium</h3><p>Time: 220 ms | Space: 19.95 MB</p><hr><pre>Bit Rotation -—— A rotation (or circular shift) is an operation similar to shift except that the bits that fall off at one end are put back to the other end.
 
-直接按照题设用位运算求解即可
+In left rotation, the bits that fall off at left end are put back at right end.
 
-public class Solution {
-    /*
-     * @param : a number
-     * @param : digit needed to be rorated
-     * @return: a number
-     */
-    public int leftRotate(int n, int d) {
-        // write code here
-        return (n << d) | (n >> (32 - d));
-    }
-}
+Let n is stored using 8 bits. Left rotation of n = 　11100101 by 3 makes n = 00101111 (Left shifted by 3 and first 3 bits are put back in last ). If n is stored using 16 bits or 32 bits then left rotation of n (000…11100101) becomes 00..0011100101000.
 
-More
-Java
-2020-06-09
-ziruizhao
+In this problem, you can assume that n was stored in 32 Bits.
+To give you the number n to be rotated and the number d of digits to move left, please output the value after left rotation.
 
-如果是 rotate right 也是一回事,那么答案就是 return (n >>> d) + (n << (32 - d));
+LintCode - Online Judge Solution
 
-public int leftRotate(int n, int d) {
-    // write code here
-    return (n >>> (32 - d)) + (n << d);
-}
+Candidate Written Test Screening, Team Competency Assessment, Programming Teaching Exercises, Online Exam Grading
 
-Java
-2020-06-09
-3
-·····
-Java
-autocomplete turned on
-Launch Exam
-30 分 00 秒
-1
-public·class·Solution·{</pre>
+WeChat for information
+
+Example
+
+Example1
+
+Input: n = 123, d = 4
+Output: 1968
+Explanation: 
+0000,0000,0000,0000,0000,0000,0111,1010  -->  0000,0000,0000,0000,0000,0111,1010,0000
+
+Example2
+
+Input: n = 127, d = 8
+Output: 32512
+Explanation: 
+0000,0000,0000,0000,0000,0000,1111,1111  -->  0000,0000,0000,0000,1111,1111,0000,0000</pre>
