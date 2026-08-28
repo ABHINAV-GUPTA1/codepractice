@@ -287,6 +287,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2816-lexicographically-smallest-palindrome](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2816-lexicographically-smallest-palindrome) |
 | [3584-find-the-lexicographically-smallest-valid-sequence](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3584-find-the-lexicographically-smallest-valid-sequence) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -625,6 +626,7 @@
 | [3617-find-the-original-typed-string-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3617-find-the-original-typed-string-i) |
 | [3635-smallest-divisible-digit-product-ii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3635-smallest-divisible-digit-product-ii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1582,6 +1584,7 @@
 | [2998-count-symmetric-integers](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2998-count-symmetric-integers) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3626-smallest-divisible-digit-product-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
+| [4037-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Concurrency
 |  |
 | ------- |
