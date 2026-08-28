@@ -1,4 +1,4 @@
-<h2><a href="https://www.lintcode.com/problem/723/description">LintCode Rotate Bits</a></h2><h3>Medium</h3><p>Time: 220 ms | Space: 19.95 MB</p><hr><pre>Bit Rotation -—— A rotation (or circular shift) is an operation similar to shift except that the bits that fall off at one end are put back to the other end.
+<h2><a href="https://www.lintcode.com/problem/723/description">LintCode Rotate Bits</a></h2><h3>Medium</h3><p>Time: 258 ms | Space: 20.07 MB</p><hr><pre>Bit Rotation -—— A rotation (or circular shift) is an operation similar to shift except that the bits that fall off at one end are put back to the other end.
 
 In left rotation, the bits that fall off at left end are put back at right end.
 
