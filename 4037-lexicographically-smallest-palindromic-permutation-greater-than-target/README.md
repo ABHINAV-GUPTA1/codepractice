@@ -67,3 +67,10 @@
 	<li><code>1 &lt;= n == s.length == target.length &lt;= 300</code></li>
 	<li><code>s</code> and <code>target</code> consist of only lowercase English letters.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 174 ms (19.05%), Space: 47.9 MB (28.57%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4037-lexicographically-smallest-palindromic-permutation-greater-than-target/4037-lexicographically-smallest-palindromic-permutation-greater-than-target_Solution_2026-08-28_04-26-06.java) |
+<!---LeetCode Solutions End-->
