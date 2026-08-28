@@ -1,4 +1,4 @@
-<h2><a href="https://www.lintcode.com/problem/181/description">LintCode Flip Bits</a></h2><h3>Medium</h3><p>Time: 223 ms | Space: 20.08 MB</p><hr><pre>Determine the number of bits required to flip if you want to convert integer n to integer m.
+<h2><a href="https://www.lintcode.com/problem/181/description">LintCode Flip Bits</a></h2><h3>Medium</h3><p>Time: 345 ms | Space: 19.97 MB</p><hr><pre>Determine the number of bits required to flip if you want to convert integer n to integer m.
 
 LintCode - Online Judge Solution
 
