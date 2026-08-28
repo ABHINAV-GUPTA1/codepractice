@@ -1,0 +1,1 @@
+<h2><a href="https://www.lintcode.com/problem/191/description?showListFe=false&page=1&problemTypeId=4&pageSize=50">LintCode Maximum Product Subarray</a></h2><h3>Medium</h3><p>Time: 294 ms | Space: 21.89 MB</p>
