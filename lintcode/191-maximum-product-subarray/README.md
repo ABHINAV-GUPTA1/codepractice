@@ -1,4 +1,4 @@
-<h2><a href="https://www.lintcode.com/problem/191/description?showListFe=false&page=1&problemTypeId=4&pageSize=50">LintCode Maximum Product Subarray</a></h2><h3>Medium</h3><p>Time: 287 ms | Space: 21.39 MB</p><hr><pre>Find the consecutive subarray (containing at least one number) in an integer array nums with the largest product.
+<h2><a href="https://www.lintcode.com/problem/191/description?showListFe=false&page=1&problemTypeId=4&pageSize=50">LintCode Maximum Product Subarray</a></h2><h3>Medium</h3><p>Time: 293 ms | Space: 21.95 MB</p><hr><pre>Find the consecutive subarray (containing at least one number) in an integer array nums with the largest product.
 
 LintCode - Online Judge Solution
 
