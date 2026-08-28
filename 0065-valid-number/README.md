@@ -55,3 +55,10 @@ For example, all the following are valid numbers: <code>&quot;2&quot;, &quot;008
 	<li><code>1 &lt;= s.length &lt;= 20</code></li>
 	<li><code>s</code> consists of only English letters (both uppercase and lowercase), digits (<code>0-9</code>), plus <code>&#39;+&#39;</code>, minus <code>&#39;-&#39;</code>, or dot <code>&#39;.&#39;</code>.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (100%), Space: 43.9 MB (51.95%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/0065-valid-number/0065-valid-number_Solution_2026-08-28_05-05-30.java) |
+<!---LeetCode Solutions End-->
