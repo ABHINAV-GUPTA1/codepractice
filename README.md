@@ -1643,3 +1643,9 @@
 | [2002-stone-game-viii](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2002-stone-game-viii) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
+<!---LintCode Start-->
+# LintCode
+| # | Problem Name | Companies | Difficulty | Time | Space |
+| --- | --- | --- | --- | --- | --- |
+
+| [3916-unknown-name](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/lintcode/3916-unknown-name) | Course | Enumerate | Medium | 223 ms | 20.03 MB |
