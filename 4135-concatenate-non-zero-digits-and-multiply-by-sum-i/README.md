@@ -44,3 +44,10 @@
 <ul>
 	<li><code>0 &lt;= n &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 1 ms (99.96%), Space: 42.6 MB (51.24%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/4135-concatenate-non-zero-digits-and-multiply-by-sum-i/4135-concatenate-non-zero-digits-and-multiply-by-sum-i_Solution_2026-08-28_21-20-41.java) |
+<!---LeetCode Solutions End-->
