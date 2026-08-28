@@ -43,3 +43,10 @@ The greatest common divisor of 3 and 3 is 3.
 	<li><code>2 &lt;= nums.length &lt;= 1000</code></li>
 	<li><code>1 &lt;= nums[i] &lt;= 1000</code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 0 ms (100%), Space: 44.8 MB (94.4%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2106-find-greatest-common-divisor-of-array/2106-find-greatest-common-divisor-of-array_Solution_2026-08-28_21-22-12.java) |
+<!---LeetCode Solutions End-->
