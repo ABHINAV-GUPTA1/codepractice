@@ -1,4 +1,4 @@
-<h2><a href="https://www.lintcode.com/problem/365/description?showListFe=false&page=1&problemTypeId=4&pageSize=50">LintCode Count 1 in Binary</a></h2><h3>Medium</h3><p>Time: 218 ms | Space: 19.94 MB</p><hr><pre>Count how many 1 in binary representation of a 32-bit integer.
+<h2><a href="https://www.lintcode.com/problem/365/description?showListFe=false&page=1&problemTypeId=4&pageSize=50">LintCode Count 1 in Binary</a></h2><h3>Medium</h3><p>Time: 223 ms | Space: 20.02 MB</p><hr><pre>Count how many 1 in binary representation of a 32-bit integer.
 
 LintCode - Online Judge Solution
 
