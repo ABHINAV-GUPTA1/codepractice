@@ -47,3 +47,10 @@ We cannot obtain a lexicographically smaller array by applying any more operatio
 	<li><code>1 &lt;= nums[i] &lt;= 10<sup>9</sup></code></li>
 	<li><code>1 &lt;= limit &lt;= 10<sup>9</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 82 ms (68.94%), Space: 118.1 MB (96.97%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements/3219-make-lexicographically-smallest-array-by-swapping-elements_Solution_2026-08-29_04-05-39.java) |
+<!---LeetCode Solutions End-->
