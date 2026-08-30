@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
 |  |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+## Greedy
+|  |
+| ------- |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2212-removing-minimum-and-maximum-from-array) |
 <!---LeetCode Topics End-->
