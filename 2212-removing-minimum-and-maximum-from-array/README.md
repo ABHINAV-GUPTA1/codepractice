@@ -49,3 +49,10 @@ We can remove it with 1 deletion.
 	<li><code>-10<sup>5</sup> &lt;= nums[i] &lt;= 10<sup>5</sup></code></li>
 	<li>The integers in <code>nums</code> are <strong>distinct</strong>.</li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 4 ms (10.73%), Space: 86.7 MB (40%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2212-removing-minimum-and-maximum-from-array/2212-removing-minimum-and-maximum-from-array_Solution_2026-08-29_23-30-16.java) |
+<!---LeetCode Solutions End-->
