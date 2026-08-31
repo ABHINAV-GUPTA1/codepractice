@@ -35,4 +35,8 @@
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Linked List
+|  |
+| ------- |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 <!---LeetCode Topics End-->
