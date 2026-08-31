@@ -50,3 +50,10 @@ Note that the last node is not considered a local maxima because it does not hav
 	<li>The number of nodes in the list is in the range <code>[2, 10<sup>5</sup>]</code>.</li>
 	<li><code>1 &lt;= Node.val &lt;= 10<sup>5</sup></code></li>
 </ul>
+
+<!---LeetCode Solutions Start-->
+## Solutions
+|  |
+| ------- |
+| [Time: 285 ms (6.05%), Space: 105.8 MB (94.26%)](https://github.com/ABHINAV-GUPTA1/codepractice/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points_Solution_2026-08-31_20-45-41.java) |
+<!---LeetCode Solutions End-->
